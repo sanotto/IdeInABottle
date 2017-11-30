@@ -1,0 +1,1402 @@
+﻿
+2017-11-27T16:30:37: Start analysis
+2017-11-27T16:30:37: [WARNING] Library was set explicitly - skipping path detection
+2017-11-27T16:30:37: IncludeModulesFromModulePath = win32com
+2017-11-27T16:30:38: Deleting 0 files
+2017-11-27T16:30:38: Scraping builtin modules
+2017-11-27T16:30:38: Command: "c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Scripts\python.exe" "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\PythonScraper.py" "c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\.ptvs\\" "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\\"
+2017-11-27T16:30:41: Output
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_codecs.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_collections.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_functools.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_heapq.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_io.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_locale.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_md5.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_random.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_sha256.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_sha512.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_sre.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_struct.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_warnings.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_weakref.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\array.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\binascii.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\cmath.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\errno.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\gc.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\itertools.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\marshal.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\math.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\mmap.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\msvcrt.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\nt.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\sys.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\time.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\xxsubtype.idb
+2017-11-27T16:30:41: Scraped builtin modules
+2017-11-27T16:30:41: astropy.CallDepth = 0
+2017-11-27T16:30:41: matplotlib.CallDepth = 3
+2017-11-27T16:30:41: pandas.CallDepth = 0
+2017-11-27T16:30:41: sympy.CallDepth = 0
+2017-11-27T16:30:41: Start group "c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages" with 1 files
+2017-11-27T16:30:41: Parsing "easy_install" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\easy_install.py")
+2017-11-27T16:30:41: Parsing complete
+2017-11-27T16:30:41: Analyzing "easy_install"
+2017-11-27T16:30:41: Starting analysis of 1 modules
+2017-11-27T16:30:41: Analysis complete
+2017-11-27T16:30:41: Saving group "c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages"
+2017-11-27T16:30:43: End of group "c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages"
+2017-11-27T16:30:43: Start group "c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip" with 241 files
+2017-11-27T16:30:43: Parsing "pip.basecommand" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\basecommand.py")
+2017-11-27T16:30:43: Parsing "pip.baseparser" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\baseparser.py")
+2017-11-27T16:30:43: Parsing "pip.cmdoptions" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\cmdoptions.py")
+2017-11-27T16:30:43: Parsing "pip.download" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\download.py")
+2017-11-27T16:30:43: Parsing "pip.exceptions" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\exceptions.py")
+2017-11-27T16:30:43: Parsing "pip.index" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\index.py")
+2017-11-27T16:30:43: Parsing "pip.locations" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\locations.py")
+2017-11-27T16:30:43: Parsing "pip.pep425tags" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\pep425tags.py")
+2017-11-27T16:30:43: Parsing "pip.status_codes" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\status_codes.py")
+2017-11-27T16:30:43: Parsing "pip.wheel" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\wheel.py")
+2017-11-27T16:30:43: Parsing "pip" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\__init__.py")
+2017-11-27T16:30:43: Parsing "pip.__main__" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\__main__.py")
+2017-11-27T16:30:43: Parsing "pip.commands.check" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\commands\check.py")
+2017-11-27T16:30:43: Parsing "pip.commands.completion" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\commands\completion.py")
+2017-11-27T16:30:43: Parsing "pip.commands.download" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\commands\download.py")
+2017-11-27T16:30:43: Parsing "pip.commands.freeze" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\commands\freeze.py")
+2017-11-27T16:30:43: Parsing "pip.commands.hash" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\commands\hash.py")
+2017-11-27T16:30:43: Parsing "pip.commands.help" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\commands\help.py")
+2017-11-27T16:30:43: Parsing "pip.commands.install" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\commands\install.py")
+2017-11-27T16:30:43: Parsing "pip.commands.list" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\commands\list.py")
+2017-11-27T16:30:43: Parsing "pip.commands.search" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\commands\search.py")
+2017-11-27T16:30:43: Parsing "pip.commands.show" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\commands\show.py")
+2017-11-27T16:30:43: Parsing "pip.commands.uninstall" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\commands\uninstall.py")
+2017-11-27T16:30:43: Parsing "pip.commands.wheel" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\commands\wheel.py")
+2017-11-27T16:30:43: Parsing "pip.commands" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\commands\__init__.py")
+2017-11-27T16:30:43: Parsing "pip.compat.dictconfig" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\compat\dictconfig.py")
+2017-11-27T16:30:43: Parsing "pip.compat" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\compat\__init__.py")
+2017-11-27T16:30:43: Parsing "pip.models.index" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\models\index.py")
+2017-11-27T16:30:43: Parsing "pip.models" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\models\__init__.py")
+2017-11-27T16:30:43: Parsing "pip.operations.check" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\operations\check.py")
+2017-11-27T16:30:43: Parsing "pip.operations.freeze" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\operations\freeze.py")
+2017-11-27T16:30:43: Parsing "pip.operations" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\operations\__init__.py")
+2017-11-27T16:30:43: Parsing "pip.req.req_file" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\req\req_file.py")
+2017-11-27T16:30:43: Parsing "pip.req.req_install" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\req\req_install.py")
+2017-11-27T16:30:43: Parsing "pip.req.req_set" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\req\req_set.py")
+2017-11-27T16:30:43: Parsing "pip.req.req_uninstall" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\req\req_uninstall.py")
+2017-11-27T16:30:43: Parsing "pip.req" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\req\__init__.py")
+2017-11-27T16:30:43: Parsing "pip.utils.appdirs" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\utils\appdirs.py")
+2017-11-27T16:30:43: Parsing "pip.utils.build" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\utils\build.py")
+2017-11-27T16:30:43: Parsing "pip.utils.deprecation" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\utils\deprecation.py")
+2017-11-27T16:30:43: Parsing "pip.utils.encoding" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\utils\encoding.py")
+2017-11-27T16:30:43: Parsing "pip.utils.filesystem" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\utils\filesystem.py")
+2017-11-27T16:30:43: Parsing "pip.utils.glibc" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\utils\glibc.py")
+2017-11-27T16:30:43: Parsing "pip.utils.hashes" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\utils\hashes.py")
+2017-11-27T16:30:43: Parsing "pip.utils.logging" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\utils\logging.py")
+2017-11-27T16:30:43: Parsing "pip.utils.outdated" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\utils\outdated.py")
+2017-11-27T16:30:43: Parsing "pip.utils.packaging" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\utils\packaging.py")
+2017-11-27T16:30:43: Parsing "pip.utils.setuptools_build" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\utils\setuptools_build.py")
+2017-11-27T16:30:43: Parsing "pip.utils.ui" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\utils\ui.py")
+2017-11-27T16:30:43: Parsing "pip.utils" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\utils\__init__.py")
+2017-11-27T16:30:43: Parsing "pip.vcs.bazaar" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\vcs\bazaar.py")
+2017-11-27T16:30:43: Parsing "pip.vcs.git" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\vcs\git.py")
+2017-11-27T16:30:43: Parsing "pip.vcs.mercurial" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\vcs\mercurial.py")
+2017-11-27T16:30:43: Parsing "pip.vcs.subversion" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\vcs\subversion.py")
+2017-11-27T16:30:43: Parsing "pip.vcs" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\vcs\__init__.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.appdirs" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\appdirs.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.distro" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\distro.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.ipaddress" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\ipaddress.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.ordereddict" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\ordereddict.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.pyparsing" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\pyparsing.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.retrying" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\retrying.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.six" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\six.py")
+2017-11-27T16:30:43: Parsing "pip._vendor" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\__init__.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.cachecontrol.adapter" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\cachecontrol\adapter.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.cachecontrol.cache" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\cachecontrol\cache.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.cachecontrol.compat" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\cachecontrol\compat.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.cachecontrol.controller" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\cachecontrol\controller.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.cachecontrol.filewrapper" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\cachecontrol\filewrapper.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.cachecontrol.heuristics" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\cachecontrol\heuristics.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.cachecontrol.serialize" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\cachecontrol\serialize.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.cachecontrol.wrapper" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\cachecontrol\wrapper.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.cachecontrol._cmd" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\cachecontrol\_cmd.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.cachecontrol" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\cachecontrol\__init__.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.cachecontrol.caches.file_cache" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\cachecontrol\caches\file_cache.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.cachecontrol.caches.redis_cache" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\cachecontrol\caches\redis_cache.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.cachecontrol.caches" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\cachecontrol\caches\__init__.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.colorama.ansi" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\colorama\ansi.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.colorama.ansitowin32" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\colorama\ansitowin32.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.colorama.initialise" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\colorama\initialise.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.colorama.win32" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\colorama\win32.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.colorama.winterm" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\colorama\winterm.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.colorama" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\colorama\__init__.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.distlib.compat" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\distlib\compat.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.distlib.database" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\distlib\database.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.distlib.index" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\distlib\index.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.distlib.locators" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\distlib\locators.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.distlib.manifest" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\distlib\manifest.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.distlib.markers" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\distlib\markers.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.distlib.metadata" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\distlib\metadata.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.distlib.resources" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\distlib\resources.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.distlib.scripts" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\distlib\scripts.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.distlib.util" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\distlib\util.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.distlib.version" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\distlib\version.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.distlib.wheel" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\distlib\wheel.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.distlib" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\distlib\__init__.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.distlib._backport.misc" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\distlib\_backport\misc.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.distlib._backport.shutil" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\distlib\_backport\shutil.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.distlib._backport.sysconfig" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\distlib\_backport\sysconfig.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.distlib._backport.tarfile" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\distlib\_backport\tarfile.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.distlib._backport" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\distlib\_backport\__init__.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.html5lib.constants" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\html5lib\constants.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.html5lib.html5parser" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\html5lib\html5parser.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.html5lib.serializer" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\html5lib\serializer.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.html5lib._ihatexml" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\html5lib\_ihatexml.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.html5lib._inputstream" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\html5lib\_inputstream.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.html5lib._tokenizer" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\html5lib\_tokenizer.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.html5lib._utils" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\html5lib\_utils.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.html5lib" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\html5lib\__init__.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.html5lib.filters.alphabeticalattributes" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\html5lib\filters\alphabeticalattributes.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.html5lib.filters.base" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\html5lib\filters\base.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.html5lib.filters.inject_meta_charset" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\html5lib\filters\inject_meta_charset.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.html5lib.filters.lint" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\html5lib\filters\lint.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.html5lib.filters.optionaltags" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\html5lib\filters\optionaltags.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.html5lib.filters.sanitizer" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\html5lib\filters\sanitizer.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.html5lib.filters.whitespace" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\html5lib\filters\whitespace.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.html5lib.filters" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\html5lib\filters\__init__.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.html5lib.treeadapters.genshi" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\html5lib\treeadapters\genshi.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.html5lib.treeadapters.sax" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\html5lib\treeadapters\sax.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.html5lib.treeadapters" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\html5lib\treeadapters\__init__.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.html5lib.treebuilders.base" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\html5lib\treebuilders\base.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.html5lib.treebuilders.dom" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\html5lib\treebuilders\dom.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.html5lib.treebuilders.etree" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\html5lib\treebuilders\etree.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.html5lib.treebuilders.etree_lxml" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\html5lib\treebuilders\etree_lxml.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.html5lib.treebuilders" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\html5lib\treebuilders\__init__.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.html5lib.treewalkers.base" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\html5lib\treewalkers\base.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.html5lib.treewalkers.dom" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\html5lib\treewalkers\dom.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.html5lib.treewalkers.etree" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\html5lib\treewalkers\etree.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.html5lib.treewalkers.etree_lxml" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\html5lib\treewalkers\etree_lxml.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.html5lib.treewalkers.genshi" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\html5lib\treewalkers\genshi.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.html5lib.treewalkers" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\html5lib\treewalkers\__init__.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.html5lib._trie.datrie" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\html5lib\_trie\datrie.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.html5lib._trie.py" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\html5lib\_trie\py.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.html5lib._trie._base" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\html5lib\_trie\_base.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.html5lib._trie" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\html5lib\_trie\__init__.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.lockfile.linklockfile" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\lockfile\linklockfile.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.lockfile.mkdirlockfile" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\lockfile\mkdirlockfile.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.lockfile.pidlockfile" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\lockfile\pidlockfile.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.lockfile.sqlitelockfile" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\lockfile\sqlitelockfile.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.lockfile.symlinklockfile" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\lockfile\symlinklockfile.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.lockfile" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\lockfile\__init__.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.packaging.markers" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\packaging\markers.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.packaging.requirements" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\packaging\requirements.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.packaging.specifiers" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\packaging\specifiers.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.packaging.utils" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\packaging\utils.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.packaging.version" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\packaging\version.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.packaging._compat" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\packaging\_compat.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.packaging._structures" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\packaging\_structures.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.packaging.__about__" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\packaging\__about__.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.packaging" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\packaging\__init__.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.pkg_resources" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\pkg_resources\__init__.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.progress.bar" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\progress\bar.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.progress.counter" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\progress\counter.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.progress.helpers" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\progress\helpers.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.progress.spinner" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\progress\spinner.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.progress" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\progress\__init__.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.requests.adapters" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\adapters.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.requests.api" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\api.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.requests.auth" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\auth.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.requests.certs" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\certs.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.requests.compat" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\compat.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.requests.cookies" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\cookies.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.requests.exceptions" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\exceptions.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.requests.hooks" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\hooks.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.requests.models" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\models.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.requests.sessions" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\sessions.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.requests.status_codes" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\status_codes.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.requests.structures" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\structures.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.requests.utils" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\utils.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.requests" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\__init__.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.requests.packages" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\__init__.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.requests.packages.chardet.big5freq" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\big5freq.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.requests.packages.chardet.big5prober" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\big5prober.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.requests.packages.chardet.chardetect" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\chardetect.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.requests.packages.chardet.chardistribution" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\chardistribution.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.requests.packages.chardet.charsetgroupprober" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\charsetgroupprober.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.requests.packages.chardet.charsetprober" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\charsetprober.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.requests.packages.chardet.codingstatemachine" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\codingstatemachine.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.requests.packages.chardet.compat" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\compat.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.requests.packages.chardet.constants" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\constants.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.requests.packages.chardet.cp949prober" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\cp949prober.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.requests.packages.chardet.escprober" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\escprober.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.requests.packages.chardet.escsm" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\escsm.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.requests.packages.chardet.eucjpprober" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\eucjpprober.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.requests.packages.chardet.euckrfreq" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\euckrfreq.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.requests.packages.chardet.euckrprober" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\euckrprober.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.requests.packages.chardet.euctwfreq" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\euctwfreq.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.requests.packages.chardet.euctwprober" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\euctwprober.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.requests.packages.chardet.gb2312freq" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\gb2312freq.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.requests.packages.chardet.gb2312prober" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\gb2312prober.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.requests.packages.chardet.hebrewprober" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\hebrewprober.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.requests.packages.chardet.jisfreq" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\jisfreq.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.requests.packages.chardet.jpcntx" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\jpcntx.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.requests.packages.chardet.langbulgarianmodel" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\langbulgarianmodel.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.requests.packages.chardet.langcyrillicmodel" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\langcyrillicmodel.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.requests.packages.chardet.langgreekmodel" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\langgreekmodel.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.requests.packages.chardet.langhebrewmodel" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\langhebrewmodel.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.requests.packages.chardet.langhungarianmodel" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\langhungarianmodel.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.requests.packages.chardet.langthaimodel" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\langthaimodel.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.requests.packages.chardet.latin1prober" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\latin1prober.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.requests.packages.chardet.mbcharsetprober" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\mbcharsetprober.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.requests.packages.chardet.mbcsgroupprober" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\mbcsgroupprober.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.requests.packages.chardet.mbcssm" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\mbcssm.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.requests.packages.chardet.sbcharsetprober" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\sbcharsetprober.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.requests.packages.chardet.sbcsgroupprober" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\sbcsgroupprober.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.requests.packages.chardet.sjisprober" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\sjisprober.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.requests.packages.chardet.universaldetector" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\universaldetector.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.requests.packages.chardet.utf8prober" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\utf8prober.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.requests.packages.chardet" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\__init__.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.requests.packages.urllib3.connection" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\connection.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.requests.packages.urllib3.connectionpool" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\connectionpool.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.requests.packages.urllib3.exceptions" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\exceptions.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.requests.packages.urllib3.fields" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\fields.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.requests.packages.urllib3.filepost" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\filepost.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.requests.packages.urllib3.poolmanager" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\poolmanager.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.requests.packages.urllib3.request" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\request.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.requests.packages.urllib3.response" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\response.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.requests.packages.urllib3._collections" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\_collections.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.requests.packages.urllib3" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\__init__.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.requests.packages.urllib3.contrib.appengine" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\contrib\appengine.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.requests.packages.urllib3.contrib.ntlmpool" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\contrib\ntlmpool.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.requests.packages.urllib3.contrib.pyopenssl" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\contrib\pyopenssl.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.requests.packages.urllib3.contrib.socks" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\contrib\socks.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.requests.packages.urllib3.contrib" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\contrib\__init__.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.requests.packages.urllib3.packages.ordered_dict" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\packages\ordered_dict.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.requests.packages.urllib3.packages.six" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\packages\six.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.requests.packages.urllib3.packages" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\packages\__init__.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.requests.packages.urllib3.packages.ssl_match_hostname._implementation" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\packages\ssl_match_hostname\_implementation.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.requests.packages.urllib3.packages.ssl_match_hostname" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\packages\ssl_match_hostname\__init__.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.requests.packages.urllib3.util.connection" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\util\connection.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.requests.packages.urllib3.util.request" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\util\request.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.requests.packages.urllib3.util.response" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\util\response.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.requests.packages.urllib3.util.retry" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\util\retry.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.requests.packages.urllib3.util.ssl_" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\util\ssl_.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.requests.packages.urllib3.util.timeout" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\util\timeout.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.requests.packages.urllib3.util.url" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\util\url.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.requests.packages.urllib3.util" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\util\__init__.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.webencodings.labels" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\webencodings\labels.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.webencodings.mklabels" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\webencodings\mklabels.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.webencodings.tests" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\webencodings\tests.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.webencodings.x_user_defined" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\webencodings\x_user_defined.py")
+2017-11-27T16:30:43: Parsing "pip._vendor.webencodings" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\webencodings\__init__.py")
+2017-11-27T16:30:43: Parsing complete
+2017-11-27T16:30:43: Analyzing "pip.basecommand"
+2017-11-27T16:30:43: Analyzing "pip.baseparser"
+2017-11-27T16:30:43: Analyzing "pip.cmdoptions"
+2017-11-27T16:30:43: Analyzing "pip.download"
+2017-11-27T16:30:43: Analyzing "pip.exceptions"
+2017-11-27T16:30:43: Analyzing "pip.index"
+2017-11-27T16:30:43: Analyzing "pip.locations"
+2017-11-27T16:30:43: Analyzing "pip.pep425tags"
+2017-11-27T16:30:43: Analyzing "pip.status_codes"
+2017-11-27T16:30:43: Analyzing "pip.wheel"
+2017-11-27T16:30:43: Analyzing "pip"
+2017-11-27T16:30:43: Analyzing "pip.__main__"
+2017-11-27T16:30:43: Analyzing "pip.commands.check"
+2017-11-27T16:30:43: Analyzing "pip.commands.completion"
+2017-11-27T16:30:43: Analyzing "pip.commands.download"
+2017-11-27T16:30:43: Analyzing "pip.commands.freeze"
+2017-11-27T16:30:43: Analyzing "pip.commands.hash"
+2017-11-27T16:30:43: Analyzing "pip.commands.help"
+2017-11-27T16:30:43: Analyzing "pip.commands.install"
+2017-11-27T16:30:43: Analyzing "pip.commands.list"
+2017-11-27T16:30:43: Analyzing "pip.commands.search"
+2017-11-27T16:30:43: Analyzing "pip.commands.show"
+2017-11-27T16:30:43: Analyzing "pip.commands.uninstall"
+2017-11-27T16:30:43: Analyzing "pip.commands.wheel"
+2017-11-27T16:30:43: Analyzing "pip.commands"
+2017-11-27T16:30:43: Analyzing "pip.compat.dictconfig"
+2017-11-27T16:30:43: Analyzing "pip.compat"
+2017-11-27T16:30:43: Analyzing "pip.models.index"
+2017-11-27T16:30:43: Analyzing "pip.models"
+2017-11-27T16:30:43: Analyzing "pip.operations.check"
+2017-11-27T16:30:43: Analyzing "pip.operations.freeze"
+2017-11-27T16:30:43: Analyzing "pip.operations"
+2017-11-27T16:30:43: Analyzing "pip.req.req_file"
+2017-11-27T16:30:43: Analyzing "pip.req.req_install"
+2017-11-27T16:30:43: Analyzing "pip.req.req_set"
+2017-11-27T16:30:43: Analyzing "pip.req.req_uninstall"
+2017-11-27T16:30:43: Analyzing "pip.req"
+2017-11-27T16:30:43: Analyzing "pip.utils.appdirs"
+2017-11-27T16:30:43: Analyzing "pip.utils.build"
+2017-11-27T16:30:43: Analyzing "pip.utils.deprecation"
+2017-11-27T16:30:43: Analyzing "pip.utils.encoding"
+2017-11-27T16:30:43: Analyzing "pip.utils.filesystem"
+2017-11-27T16:30:43: Analyzing "pip.utils.glibc"
+2017-11-27T16:30:43: Analyzing "pip.utils.hashes"
+2017-11-27T16:30:43: Analyzing "pip.utils.logging"
+2017-11-27T16:30:43: Analyzing "pip.utils.outdated"
+2017-11-27T16:30:43: Analyzing "pip.utils.packaging"
+2017-11-27T16:30:43: Analyzing "pip.utils.setuptools_build"
+2017-11-27T16:30:43: Analyzing "pip.utils.ui"
+2017-11-27T16:30:43: Analyzing "pip.utils"
+2017-11-27T16:30:43: Analyzing "pip.vcs.bazaar"
+2017-11-27T16:30:43: Analyzing "pip.vcs.git"
+2017-11-27T16:30:43: Analyzing "pip.vcs.mercurial"
+2017-11-27T16:30:43: Analyzing "pip.vcs.subversion"
+2017-11-27T16:30:43: Analyzing "pip.vcs"
+2017-11-27T16:30:43: Analyzing "pip._vendor.appdirs"
+2017-11-27T16:30:43: Analyzing "pip._vendor.distro"
+2017-11-27T16:30:43: Analyzing "pip._vendor.ipaddress"
+2017-11-27T16:30:43: Analyzing "pip._vendor.ordereddict"
+2017-11-27T16:30:43: Analyzing "pip._vendor.pyparsing"
+2017-11-27T16:30:43: Analyzing "pip._vendor.retrying"
+2017-11-27T16:30:43: Analyzing "pip._vendor.six"
+2017-11-27T16:30:43: Analyzing "pip._vendor"
+2017-11-27T16:30:43: Analyzing "pip._vendor.cachecontrol.adapter"
+2017-11-27T16:30:43: Analyzing "pip._vendor.cachecontrol.cache"
+2017-11-27T16:30:43: Analyzing "pip._vendor.cachecontrol.compat"
+2017-11-27T16:30:43: Analyzing "pip._vendor.cachecontrol.controller"
+2017-11-27T16:30:43: Analyzing "pip._vendor.cachecontrol.filewrapper"
+2017-11-27T16:30:43: Analyzing "pip._vendor.cachecontrol.heuristics"
+2017-11-27T16:30:43: Analyzing "pip._vendor.cachecontrol.serialize"
+2017-11-27T16:30:43: Analyzing "pip._vendor.cachecontrol.wrapper"
+2017-11-27T16:30:43: Analyzing "pip._vendor.cachecontrol._cmd"
+2017-11-27T16:30:43: Analyzing "pip._vendor.cachecontrol"
+2017-11-27T16:30:43: Analyzing "pip._vendor.cachecontrol.caches.file_cache"
+2017-11-27T16:30:43: Analyzing "pip._vendor.cachecontrol.caches.redis_cache"
+2017-11-27T16:30:43: Analyzing "pip._vendor.cachecontrol.caches"
+2017-11-27T16:30:43: Analyzing "pip._vendor.colorama.ansi"
+2017-11-27T16:30:43: Analyzing "pip._vendor.colorama.ansitowin32"
+2017-11-27T16:30:43: Analyzing "pip._vendor.colorama.initialise"
+2017-11-27T16:30:43: Analyzing "pip._vendor.colorama.win32"
+2017-11-27T16:30:43: Analyzing "pip._vendor.colorama.winterm"
+2017-11-27T16:30:43: Analyzing "pip._vendor.colorama"
+2017-11-27T16:30:43: Analyzing "pip._vendor.distlib.compat"
+2017-11-27T16:30:43: Analyzing "pip._vendor.distlib.database"
+2017-11-27T16:30:43: Analyzing "pip._vendor.distlib.index"
+2017-11-27T16:30:43: Analyzing "pip._vendor.distlib.locators"
+2017-11-27T16:30:43: Analyzing "pip._vendor.distlib.manifest"
+2017-11-27T16:30:43: Analyzing "pip._vendor.distlib.markers"
+2017-11-27T16:30:43: Analyzing "pip._vendor.distlib.metadata"
+2017-11-27T16:30:43: Analyzing "pip._vendor.distlib.resources"
+2017-11-27T16:30:43: Analyzing "pip._vendor.distlib.scripts"
+2017-11-27T16:30:43: Analyzing "pip._vendor.distlib.util"
+2017-11-27T16:30:43: Analyzing "pip._vendor.distlib.version"
+2017-11-27T16:30:43: Analyzing "pip._vendor.distlib.wheel"
+2017-11-27T16:30:43: Analyzing "pip._vendor.distlib"
+2017-11-27T16:30:43: Analyzing "pip._vendor.distlib._backport.misc"
+2017-11-27T16:30:43: Analyzing "pip._vendor.distlib._backport.shutil"
+2017-11-27T16:30:43: Analyzing "pip._vendor.distlib._backport.sysconfig"
+2017-11-27T16:30:43: Analyzing "pip._vendor.distlib._backport.tarfile"
+2017-11-27T16:30:43: Analyzing "pip._vendor.distlib._backport"
+2017-11-27T16:30:43: Analyzing "pip._vendor.html5lib.constants"
+2017-11-27T16:30:43: Analyzing "pip._vendor.html5lib.html5parser"
+2017-11-27T16:30:43: Analyzing "pip._vendor.html5lib.serializer"
+2017-11-27T16:30:43: Analyzing "pip._vendor.html5lib._ihatexml"
+2017-11-27T16:30:43: Analyzing "pip._vendor.html5lib._inputstream"
+2017-11-27T16:30:43: Analyzing "pip._vendor.html5lib._tokenizer"
+2017-11-27T16:30:43: Analyzing "pip._vendor.html5lib._utils"
+2017-11-27T16:30:43: Analyzing "pip._vendor.html5lib"
+2017-11-27T16:30:43: Analyzing "pip._vendor.html5lib.filters.alphabeticalattributes"
+2017-11-27T16:30:43: Analyzing "pip._vendor.html5lib.filters.base"
+2017-11-27T16:30:43: Analyzing "pip._vendor.html5lib.filters.inject_meta_charset"
+2017-11-27T16:30:43: Analyzing "pip._vendor.html5lib.filters.lint"
+2017-11-27T16:30:43: Analyzing "pip._vendor.html5lib.filters.optionaltags"
+2017-11-27T16:30:43: Analyzing "pip._vendor.html5lib.filters.sanitizer"
+2017-11-27T16:30:43: Analyzing "pip._vendor.html5lib.filters.whitespace"
+2017-11-27T16:30:43: Analyzing "pip._vendor.html5lib.filters"
+2017-11-27T16:30:43: Analyzing "pip._vendor.html5lib.treeadapters.genshi"
+2017-11-27T16:30:43: Analyzing "pip._vendor.html5lib.treeadapters.sax"
+2017-11-27T16:30:43: Analyzing "pip._vendor.html5lib.treeadapters"
+2017-11-27T16:30:43: Analyzing "pip._vendor.html5lib.treebuilders.base"
+2017-11-27T16:30:43: Analyzing "pip._vendor.html5lib.treebuilders.dom"
+2017-11-27T16:30:43: Analyzing "pip._vendor.html5lib.treebuilders.etree"
+2017-11-27T16:30:43: Analyzing "pip._vendor.html5lib.treebuilders.etree_lxml"
+2017-11-27T16:30:43: Analyzing "pip._vendor.html5lib.treebuilders"
+2017-11-27T16:30:43: Analyzing "pip._vendor.html5lib.treewalkers.base"
+2017-11-27T16:30:43: Analyzing "pip._vendor.html5lib.treewalkers.dom"
+2017-11-27T16:30:43: Analyzing "pip._vendor.html5lib.treewalkers.etree"
+2017-11-27T16:30:43: Analyzing "pip._vendor.html5lib.treewalkers.etree_lxml"
+2017-11-27T16:30:43: Analyzing "pip._vendor.html5lib.treewalkers.genshi"
+2017-11-27T16:30:43: Analyzing "pip._vendor.html5lib.treewalkers"
+2017-11-27T16:30:43: Analyzing "pip._vendor.html5lib._trie.datrie"
+2017-11-27T16:30:43: Analyzing "pip._vendor.html5lib._trie.py"
+2017-11-27T16:30:43: Analyzing "pip._vendor.html5lib._trie._base"
+2017-11-27T16:30:43: Analyzing "pip._vendor.html5lib._trie"
+2017-11-27T16:30:43: Analyzing "pip._vendor.lockfile.linklockfile"
+2017-11-27T16:30:43: Analyzing "pip._vendor.lockfile.mkdirlockfile"
+2017-11-27T16:30:43: Analyzing "pip._vendor.lockfile.pidlockfile"
+2017-11-27T16:30:43: Analyzing "pip._vendor.lockfile.sqlitelockfile"
+2017-11-27T16:30:43: Analyzing "pip._vendor.lockfile.symlinklockfile"
+2017-11-27T16:30:43: Analyzing "pip._vendor.lockfile"
+2017-11-27T16:30:43: Analyzing "pip._vendor.packaging.markers"
+2017-11-27T16:30:43: Analyzing "pip._vendor.packaging.requirements"
+2017-11-27T16:30:43: Analyzing "pip._vendor.packaging.specifiers"
+2017-11-27T16:30:43: Analyzing "pip._vendor.packaging.utils"
+2017-11-27T16:30:43: Analyzing "pip._vendor.packaging.version"
+2017-11-27T16:30:43: Analyzing "pip._vendor.packaging._compat"
+2017-11-27T16:30:43: Analyzing "pip._vendor.packaging._structures"
+2017-11-27T16:30:43: Analyzing "pip._vendor.packaging.__about__"
+2017-11-27T16:30:43: Analyzing "pip._vendor.packaging"
+2017-11-27T16:30:43: Analyzing "pip._vendor.pkg_resources"
+2017-11-27T16:30:43: Analyzing "pip._vendor.progress.bar"
+2017-11-27T16:30:43: Analyzing "pip._vendor.progress.counter"
+2017-11-27T16:30:43: Analyzing "pip._vendor.progress.helpers"
+2017-11-27T16:30:43: Analyzing "pip._vendor.progress.spinner"
+2017-11-27T16:30:43: Analyzing "pip._vendor.progress"
+2017-11-27T16:30:43: Analyzing "pip._vendor.requests.adapters"
+2017-11-27T16:30:43: Analyzing "pip._vendor.requests.api"
+2017-11-27T16:30:43: Analyzing "pip._vendor.requests.auth"
+2017-11-27T16:30:43: Analyzing "pip._vendor.requests.certs"
+2017-11-27T16:30:43: Analyzing "pip._vendor.requests.compat"
+2017-11-27T16:30:43: Analyzing "pip._vendor.requests.cookies"
+2017-11-27T16:30:43: Analyzing "pip._vendor.requests.exceptions"
+2017-11-27T16:30:43: Analyzing "pip._vendor.requests.hooks"
+2017-11-27T16:30:43: Analyzing "pip._vendor.requests.models"
+2017-11-27T16:30:43: Analyzing "pip._vendor.requests.sessions"
+2017-11-27T16:30:43: Analyzing "pip._vendor.requests.status_codes"
+2017-11-27T16:30:43: Analyzing "pip._vendor.requests.structures"
+2017-11-27T16:30:43: Analyzing "pip._vendor.requests.utils"
+2017-11-27T16:30:43: Analyzing "pip._vendor.requests"
+2017-11-27T16:30:43: Analyzing "pip._vendor.requests.packages"
+2017-11-27T16:30:43: Analyzing "pip._vendor.requests.packages.chardet.big5freq"
+2017-11-27T16:30:43: Analyzing "pip._vendor.requests.packages.chardet.big5prober"
+2017-11-27T16:30:43: Analyzing "pip._vendor.requests.packages.chardet.chardetect"
+2017-11-27T16:30:43: Analyzing "pip._vendor.requests.packages.chardet.chardistribution"
+2017-11-27T16:30:43: Analyzing "pip._vendor.requests.packages.chardet.charsetgroupprober"
+2017-11-27T16:30:43: Analyzing "pip._vendor.requests.packages.chardet.charsetprober"
+2017-11-27T16:30:43: Analyzing "pip._vendor.requests.packages.chardet.codingstatemachine"
+2017-11-27T16:30:43: Analyzing "pip._vendor.requests.packages.chardet.compat"
+2017-11-27T16:30:43: Analyzing "pip._vendor.requests.packages.chardet.constants"
+2017-11-27T16:30:43: Analyzing "pip._vendor.requests.packages.chardet.cp949prober"
+2017-11-27T16:30:43: Analyzing "pip._vendor.requests.packages.chardet.escprober"
+2017-11-27T16:30:43: Analyzing "pip._vendor.requests.packages.chardet.escsm"
+2017-11-27T16:30:43: Analyzing "pip._vendor.requests.packages.chardet.eucjpprober"
+2017-11-27T16:30:43: Analyzing "pip._vendor.requests.packages.chardet.euckrfreq"
+2017-11-27T16:30:43: Analyzing "pip._vendor.requests.packages.chardet.euckrprober"
+2017-11-27T16:30:43: Analyzing "pip._vendor.requests.packages.chardet.euctwfreq"
+2017-11-27T16:30:43: Analyzing "pip._vendor.requests.packages.chardet.euctwprober"
+2017-11-27T16:30:43: Analyzing "pip._vendor.requests.packages.chardet.gb2312freq"
+2017-11-27T16:30:43: Analyzing "pip._vendor.requests.packages.chardet.gb2312prober"
+2017-11-27T16:30:43: Analyzing "pip._vendor.requests.packages.chardet.hebrewprober"
+2017-11-27T16:30:43: Analyzing "pip._vendor.requests.packages.chardet.jisfreq"
+2017-11-27T16:30:43: Analyzing "pip._vendor.requests.packages.chardet.jpcntx"
+2017-11-27T16:30:43: Analyzing "pip._vendor.requests.packages.chardet.langbulgarianmodel"
+2017-11-27T16:30:43: Analyzing "pip._vendor.requests.packages.chardet.langcyrillicmodel"
+2017-11-27T16:30:43: Analyzing "pip._vendor.requests.packages.chardet.langgreekmodel"
+2017-11-27T16:30:43: Analyzing "pip._vendor.requests.packages.chardet.langhebrewmodel"
+2017-11-27T16:30:43: Analyzing "pip._vendor.requests.packages.chardet.langhungarianmodel"
+2017-11-27T16:30:43: Analyzing "pip._vendor.requests.packages.chardet.langthaimodel"
+2017-11-27T16:30:43: Analyzing "pip._vendor.requests.packages.chardet.latin1prober"
+2017-11-27T16:30:43: Analyzing "pip._vendor.requests.packages.chardet.mbcharsetprober"
+2017-11-27T16:30:43: Analyzing "pip._vendor.requests.packages.chardet.mbcsgroupprober"
+2017-11-27T16:30:43: Analyzing "pip._vendor.requests.packages.chardet.mbcssm"
+2017-11-27T16:30:43: Analyzing "pip._vendor.requests.packages.chardet.sbcharsetprober"
+2017-11-27T16:30:43: Analyzing "pip._vendor.requests.packages.chardet.sbcsgroupprober"
+2017-11-27T16:30:43: Analyzing "pip._vendor.requests.packages.chardet.sjisprober"
+2017-11-27T16:30:43: Analyzing "pip._vendor.requests.packages.chardet.universaldetector"
+2017-11-27T16:30:43: Analyzing "pip._vendor.requests.packages.chardet.utf8prober"
+2017-11-27T16:30:43: Analyzing "pip._vendor.requests.packages.chardet"
+2017-11-27T16:30:43: Analyzing "pip._vendor.requests.packages.urllib3.connection"
+2017-11-27T16:30:43: Analyzing "pip._vendor.requests.packages.urllib3.connectionpool"
+2017-11-27T16:30:43: Analyzing "pip._vendor.requests.packages.urllib3.exceptions"
+2017-11-27T16:30:43: Analyzing "pip._vendor.requests.packages.urllib3.fields"
+2017-11-27T16:30:43: Analyzing "pip._vendor.requests.packages.urllib3.filepost"
+2017-11-27T16:30:43: Analyzing "pip._vendor.requests.packages.urllib3.poolmanager"
+2017-11-27T16:30:43: Analyzing "pip._vendor.requests.packages.urllib3.request"
+2017-11-27T16:30:43: Analyzing "pip._vendor.requests.packages.urllib3.response"
+2017-11-27T16:30:43: Analyzing "pip._vendor.requests.packages.urllib3._collections"
+2017-11-27T16:30:43: Analyzing "pip._vendor.requests.packages.urllib3"
+2017-11-27T16:30:43: Analyzing "pip._vendor.requests.packages.urllib3.contrib.appengine"
+2017-11-27T16:30:43: Analyzing "pip._vendor.requests.packages.urllib3.contrib.ntlmpool"
+2017-11-27T16:30:43: Analyzing "pip._vendor.requests.packages.urllib3.contrib.pyopenssl"
+2017-11-27T16:30:43: Analyzing "pip._vendor.requests.packages.urllib3.contrib.socks"
+2017-11-27T16:30:43: Analyzing "pip._vendor.requests.packages.urllib3.contrib"
+2017-11-27T16:30:43: Analyzing "pip._vendor.requests.packages.urllib3.packages.ordered_dict"
+2017-11-27T16:30:43: Analyzing "pip._vendor.requests.packages.urllib3.packages.six"
+2017-11-27T16:30:43: Analyzing "pip._vendor.requests.packages.urllib3.packages"
+2017-11-27T16:30:43: Analyzing "pip._vendor.requests.packages.urllib3.packages.ssl_match_hostname._implementation"
+2017-11-27T16:30:43: Analyzing "pip._vendor.requests.packages.urllib3.packages.ssl_match_hostname"
+2017-11-27T16:30:43: Analyzing "pip._vendor.requests.packages.urllib3.util.connection"
+2017-11-27T16:30:43: Analyzing "pip._vendor.requests.packages.urllib3.util.request"
+2017-11-27T16:30:43: Analyzing "pip._vendor.requests.packages.urllib3.util.response"
+2017-11-27T16:30:43: Analyzing "pip._vendor.requests.packages.urllib3.util.retry"
+2017-11-27T16:30:43: Analyzing "pip._vendor.requests.packages.urllib3.util.ssl_"
+2017-11-27T16:30:43: Analyzing "pip._vendor.requests.packages.urllib3.util.timeout"
+2017-11-27T16:30:43: Analyzing "pip._vendor.requests.packages.urllib3.util.url"
+2017-11-27T16:30:43: Analyzing "pip._vendor.requests.packages.urllib3.util"
+2017-11-27T16:30:43: Analyzing "pip._vendor.webencodings.labels"
+2017-11-27T16:30:43: Analyzing "pip._vendor.webencodings.mklabels"
+2017-11-27T16:30:43: Analyzing "pip._vendor.webencodings.tests"
+2017-11-27T16:30:43: Analyzing "pip._vendor.webencodings.x_user_defined"
+2017-11-27T16:30:43: Analyzing "pip._vendor.webencodings"
+2017-11-27T16:30:43: Starting analysis of 241 modules
+2017-11-27T16:30:49: Analysis complete
+2017-11-27T16:30:49: Saving group "c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip"
+2017-11-27T16:30:55: End of group "c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip"
+2017-11-27T16:30:55: Start group "c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pkg_resources" with 15 files
+2017-11-27T16:30:56: Parsing "pkg_resources" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pkg_resources\__init__.py")
+2017-11-27T16:30:56: Parsing "pkg_resources.extern" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pkg_resources\extern\__init__.py")
+2017-11-27T16:30:56: Parsing "pkg_resources._vendor.appdirs" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pkg_resources\_vendor\appdirs.py")
+2017-11-27T16:30:56: Parsing "pkg_resources._vendor.pyparsing" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pkg_resources\_vendor\pyparsing.py")
+2017-11-27T16:30:56: Parsing "pkg_resources._vendor.six" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pkg_resources\_vendor\six.py")
+2017-11-27T16:30:56: Parsing "pkg_resources._vendor" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pkg_resources\_vendor\__init__.py")
+2017-11-27T16:30:56: Parsing "pkg_resources._vendor.packaging.markers" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pkg_resources\_vendor\packaging\markers.py")
+2017-11-27T16:30:56: Parsing "pkg_resources._vendor.packaging.requirements" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pkg_resources\_vendor\packaging\requirements.py")
+2017-11-27T16:30:56: Parsing "pkg_resources._vendor.packaging.specifiers" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pkg_resources\_vendor\packaging\specifiers.py")
+2017-11-27T16:30:56: Parsing "pkg_resources._vendor.packaging.utils" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pkg_resources\_vendor\packaging\utils.py")
+2017-11-27T16:30:56: Parsing "pkg_resources._vendor.packaging.version" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pkg_resources\_vendor\packaging\version.py")
+2017-11-27T16:30:56: Parsing "pkg_resources._vendor.packaging._compat" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pkg_resources\_vendor\packaging\_compat.py")
+2017-11-27T16:30:56: Parsing "pkg_resources._vendor.packaging._structures" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pkg_resources\_vendor\packaging\_structures.py")
+2017-11-27T16:30:56: Parsing "pkg_resources._vendor.packaging.__about__" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pkg_resources\_vendor\packaging\__about__.py")
+2017-11-27T16:30:56: Parsing "pkg_resources._vendor.packaging" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pkg_resources\_vendor\packaging\__init__.py")
+2017-11-27T16:30:56: Parsing complete
+2017-11-27T16:30:56: Analyzing "pkg_resources"
+2017-11-27T16:30:56: Analyzing "pkg_resources.extern"
+2017-11-27T16:30:56: Analyzing "pkg_resources._vendor.appdirs"
+2017-11-27T16:30:56: Analyzing "pkg_resources._vendor.pyparsing"
+2017-11-27T16:30:56: Analyzing "pkg_resources._vendor.six"
+2017-11-27T16:30:56: Analyzing "pkg_resources._vendor"
+2017-11-27T16:30:56: Analyzing "pkg_resources._vendor.packaging.markers"
+2017-11-27T16:30:56: Analyzing "pkg_resources._vendor.packaging.requirements"
+2017-11-27T16:30:56: Analyzing "pkg_resources._vendor.packaging.specifiers"
+2017-11-27T16:30:56: Analyzing "pkg_resources._vendor.packaging.utils"
+2017-11-27T16:30:56: Analyzing "pkg_resources._vendor.packaging.version"
+2017-11-27T16:30:56: Analyzing "pkg_resources._vendor.packaging._compat"
+2017-11-27T16:30:56: Analyzing "pkg_resources._vendor.packaging._structures"
+2017-11-27T16:30:56: Analyzing "pkg_resources._vendor.packaging.__about__"
+2017-11-27T16:30:56: Analyzing "pkg_resources._vendor.packaging"
+2017-11-27T16:30:56: Starting analysis of 15 modules
+2017-11-27T16:30:58: Analysis complete
+2017-11-27T16:30:58: Saving group "c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pkg_resources"
+2017-11-27T16:30:58: End of group "c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pkg_resources"
+2017-11-27T16:30:58: Start group "c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\setuptools" with 44 files
+2017-11-27T16:30:58: Parsing "setuptools.archive_util" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\setuptools\archive_util.py")
+2017-11-27T16:30:58: Parsing "setuptools.depends" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\setuptools\depends.py")
+2017-11-27T16:30:58: Parsing "setuptools.dist" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\setuptools\dist.py")
+2017-11-27T16:30:58: Parsing "setuptools.extension" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\setuptools\extension.py")
+2017-11-27T16:30:58: Parsing "setuptools.glob" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\setuptools\glob.py")
+2017-11-27T16:30:58: Parsing "setuptools.launch" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\setuptools\launch.py")
+2017-11-27T16:30:58: Parsing "setuptools.lib2to3_ex" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\setuptools\lib2to3_ex.py")
+2017-11-27T16:30:58: Parsing "setuptools.monkey" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\setuptools\monkey.py")
+2017-11-27T16:30:58: Parsing "setuptools.msvc" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\setuptools\msvc.py")
+2017-11-27T16:30:58: Parsing "setuptools.namespaces" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\setuptools\namespaces.py")
+2017-11-27T16:30:58: Parsing "setuptools.package_index" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\setuptools\package_index.py")
+2017-11-27T16:30:58: Parsing "setuptools.py26compat" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\setuptools\py26compat.py")
+2017-11-27T16:30:58: Parsing "setuptools.py27compat" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\setuptools\py27compat.py")
+2017-11-27T16:30:58: Parsing "setuptools.py31compat" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\setuptools\py31compat.py")
+2017-11-27T16:30:58: Parsing "setuptools.sandbox" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\setuptools\sandbox.py")
+2017-11-27T16:30:58: Parsing "setuptools.ssl_support" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\setuptools\ssl_support.py")
+2017-11-27T16:30:58: Parsing "setuptools.unicode_utils" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\setuptools\unicode_utils.py")
+2017-11-27T16:30:58: Parsing "setuptools.version" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\setuptools\version.py")
+2017-11-27T16:30:58: Parsing "setuptools.windows_support" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\setuptools\windows_support.py")
+2017-11-27T16:30:58: Parsing "setuptools" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\setuptools\__init__.py")
+2017-11-27T16:30:58: Parsing "setuptools.command.alias" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\setuptools\command\alias.py")
+2017-11-27T16:30:58: Parsing "setuptools.command.bdist_egg" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\setuptools\command\bdist_egg.py")
+2017-11-27T16:30:58: Parsing "setuptools.command.bdist_rpm" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\setuptools\command\bdist_rpm.py")
+2017-11-27T16:30:58: Parsing "setuptools.command.bdist_wininst" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\setuptools\command\bdist_wininst.py")
+2017-11-27T16:30:58: Parsing "setuptools.command.build_ext" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\setuptools\command\build_ext.py")
+2017-11-27T16:30:58: Parsing "setuptools.command.build_py" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\setuptools\command\build_py.py")
+2017-11-27T16:30:58: Parsing "setuptools.command.develop" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\setuptools\command\develop.py")
+2017-11-27T16:30:58: Parsing "setuptools.command.easy_install" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\setuptools\command\easy_install.py")
+2017-11-27T16:30:58: Parsing "setuptools.command.egg_info" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\setuptools\command\egg_info.py")
+2017-11-27T16:30:58: Parsing "setuptools.command.install" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\setuptools\command\install.py")
+2017-11-27T16:30:58: Parsing "setuptools.command.install_egg_info" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\setuptools\command\install_egg_info.py")
+2017-11-27T16:30:58: Parsing "setuptools.command.install_lib" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\setuptools\command\install_lib.py")
+2017-11-27T16:30:58: Parsing "setuptools.command.install_scripts" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\setuptools\command\install_scripts.py")
+2017-11-27T16:30:58: Parsing "setuptools.command.py36compat" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\setuptools\command\py36compat.py")
+2017-11-27T16:30:58: Parsing "setuptools.command.register" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\setuptools\command\register.py")
+2017-11-27T16:30:58: Parsing "setuptools.command.rotate" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\setuptools\command\rotate.py")
+2017-11-27T16:30:58: Parsing "setuptools.command.saveopts" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\setuptools\command\saveopts.py")
+2017-11-27T16:30:58: Parsing "setuptools.command.sdist" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\setuptools\command\sdist.py")
+2017-11-27T16:30:58: Parsing "setuptools.command.setopt" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\setuptools\command\setopt.py")
+2017-11-27T16:30:58: Parsing "setuptools.command.test" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\setuptools\command\test.py")
+2017-11-27T16:30:58: Parsing "setuptools.command.upload" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\setuptools\command\upload.py")
+2017-11-27T16:30:58: Parsing "setuptools.command.upload_docs" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\setuptools\command\upload_docs.py")
+2017-11-27T16:30:58: Parsing "setuptools.command" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\setuptools\command\__init__.py")
+2017-11-27T16:30:58: Parsing "setuptools.extern" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\setuptools\extern\__init__.py")
+2017-11-27T16:30:58: Parsing complete
+2017-11-27T16:30:58: Analyzing "setuptools.archive_util"
+2017-11-27T16:30:58: Analyzing "setuptools.depends"
+2017-11-27T16:30:58: Analyzing "setuptools.dist"
+2017-11-27T16:30:58: Analyzing "setuptools.extension"
+2017-11-27T16:30:58: Analyzing "setuptools.glob"
+2017-11-27T16:30:58: Analyzing "setuptools.launch"
+2017-11-27T16:30:58: Analyzing "setuptools.lib2to3_ex"
+2017-11-27T16:30:58: Analyzing "setuptools.monkey"
+2017-11-27T16:30:58: Analyzing "setuptools.msvc"
+2017-11-27T16:30:58: Analyzing "setuptools.namespaces"
+2017-11-27T16:30:58: Analyzing "setuptools.package_index"
+2017-11-27T16:30:58: Analyzing "setuptools.py26compat"
+2017-11-27T16:30:58: Analyzing "setuptools.py27compat"
+2017-11-27T16:30:58: Analyzing "setuptools.py31compat"
+2017-11-27T16:30:58: Analyzing "setuptools.sandbox"
+2017-11-27T16:30:58: Analyzing "setuptools.ssl_support"
+2017-11-27T16:30:58: Analyzing "setuptools.unicode_utils"
+2017-11-27T16:30:58: Analyzing "setuptools.version"
+2017-11-27T16:30:58: Analyzing "setuptools.windows_support"
+2017-11-27T16:30:58: Analyzing "setuptools"
+2017-11-27T16:30:58: Analyzing "setuptools.command.alias"
+2017-11-27T16:30:58: Analyzing "setuptools.command.bdist_egg"
+2017-11-27T16:30:58: Analyzing "setuptools.command.bdist_rpm"
+2017-11-27T16:30:58: Analyzing "setuptools.command.bdist_wininst"
+2017-11-27T16:30:58: Analyzing "setuptools.command.build_ext"
+2017-11-27T16:30:58: Analyzing "setuptools.command.build_py"
+2017-11-27T16:30:58: Analyzing "setuptools.command.develop"
+2017-11-27T16:30:58: Analyzing "setuptools.command.easy_install"
+2017-11-27T16:30:58: Analyzing "setuptools.command.egg_info"
+2017-11-27T16:30:58: Analyzing "setuptools.command.install"
+2017-11-27T16:30:58: Analyzing "setuptools.command.install_egg_info"
+2017-11-27T16:30:58: Analyzing "setuptools.command.install_lib"
+2017-11-27T16:30:58: Analyzing "setuptools.command.install_scripts"
+2017-11-27T16:30:58: Analyzing "setuptools.command.py36compat"
+2017-11-27T16:30:58: Analyzing "setuptools.command.register"
+2017-11-27T16:30:58: Analyzing "setuptools.command.rotate"
+2017-11-27T16:30:58: Analyzing "setuptools.command.saveopts"
+2017-11-27T16:30:58: Analyzing "setuptools.command.sdist"
+2017-11-27T16:30:58: Analyzing "setuptools.command.setopt"
+2017-11-27T16:30:58: Analyzing "setuptools.command.test"
+2017-11-27T16:30:58: Analyzing "setuptools.command.upload"
+2017-11-27T16:30:58: Analyzing "setuptools.command.upload_docs"
+2017-11-27T16:30:58: Analyzing "setuptools.command"
+2017-11-27T16:30:58: Analyzing "setuptools.extern"
+2017-11-27T16:30:58: Starting analysis of 44 modules
+2017-11-27T16:31:00: Analysis complete
+2017-11-27T16:31:00: Saving group "c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\setuptools"
+2017-11-27T16:31:01: End of group "c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\setuptools"
+2017-11-27T16:31:01: Deleting 362 files
+2017-11-27T16:31:02: Scraping builtin modules
+2017-11-27T16:31:02: Command: "c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Scripts\python.exe" "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\PythonScraper.py" "c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\.ptvs\\" "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\\"
+2017-11-27T16:31:04: Output
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_codecs.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_collections.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_functools.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_heapq.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_io.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_locale.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_md5.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_random.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_sha256.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_sha512.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_sre.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_struct.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_warnings.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_weakref.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\array.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\binascii.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\cmath.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\errno.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\gc.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\itertools.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\marshal.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\math.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\mmap.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\msvcrt.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\nt.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\sys.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\time.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\xxsubtype.idb
+2017-11-27T16:31:04: Scraped builtin modules
+2017-11-27T16:31:04: Scraped 0 files
+2017-11-27T16:31:04: astropy.CallDepth = 0
+2017-11-27T16:31:04: matplotlib.CallDepth = 3
+2017-11-27T16:31:04: pandas.CallDepth = 0
+2017-11-27T16:31:04: sympy.CallDepth = 0
+2017-11-27T16:31:04: Start group "c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages" with 2 files
+2017-11-27T16:31:04: Parsing "bottle" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\bottle.py")
+2017-11-27T16:31:04: Parsing "easy_install" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\easy_install.py")
+2017-11-27T16:31:04: Parsing complete
+2017-11-27T16:31:04: Analyzing "bottle"
+2017-11-27T16:31:04: Analyzing "easy_install"
+2017-11-27T16:31:04: Starting analysis of 2 modules
+2017-11-27T16:31:06: Analysis complete
+2017-11-27T16:31:06: Saving group "c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages"
+2017-11-27T16:31:06: End of group "c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages"
+2017-11-27T16:31:06: Start group "c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip" with 241 files
+2017-11-27T16:31:06: Parsing "pip.basecommand" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\basecommand.py")
+2017-11-27T16:31:06: Parsing "pip.baseparser" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\baseparser.py")
+2017-11-27T16:31:06: Parsing "pip.cmdoptions" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\cmdoptions.py")
+2017-11-27T16:31:06: Parsing "pip.download" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\download.py")
+2017-11-27T16:31:06: Parsing "pip.exceptions" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\exceptions.py")
+2017-11-27T16:31:06: Parsing "pip.index" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\index.py")
+2017-11-27T16:31:06: Parsing "pip.locations" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\locations.py")
+2017-11-27T16:31:06: Parsing "pip.pep425tags" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\pep425tags.py")
+2017-11-27T16:31:06: Parsing "pip.status_codes" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\status_codes.py")
+2017-11-27T16:31:06: Parsing "pip.wheel" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\wheel.py")
+2017-11-27T16:31:06: Parsing "pip" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\__init__.py")
+2017-11-27T16:31:06: Parsing "pip.__main__" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\__main__.py")
+2017-11-27T16:31:06: Parsing "pip.commands.check" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\commands\check.py")
+2017-11-27T16:31:06: Parsing "pip.commands.completion" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\commands\completion.py")
+2017-11-27T16:31:06: Parsing "pip.commands.download" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\commands\download.py")
+2017-11-27T16:31:06: Parsing "pip.commands.freeze" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\commands\freeze.py")
+2017-11-27T16:31:06: Parsing "pip.commands.hash" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\commands\hash.py")
+2017-11-27T16:31:06: Parsing "pip.commands.help" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\commands\help.py")
+2017-11-27T16:31:06: Parsing "pip.commands.install" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\commands\install.py")
+2017-11-27T16:31:06: Parsing "pip.commands.list" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\commands\list.py")
+2017-11-27T16:31:06: Parsing "pip.commands.search" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\commands\search.py")
+2017-11-27T16:31:06: Parsing "pip.commands.show" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\commands\show.py")
+2017-11-27T16:31:06: Parsing "pip.commands.uninstall" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\commands\uninstall.py")
+2017-11-27T16:31:06: Parsing "pip.commands.wheel" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\commands\wheel.py")
+2017-11-27T16:31:06: Parsing "pip.commands" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\commands\__init__.py")
+2017-11-27T16:31:06: Parsing "pip.compat.dictconfig" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\compat\dictconfig.py")
+2017-11-27T16:31:06: Parsing "pip.compat" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\compat\__init__.py")
+2017-11-27T16:31:06: Parsing "pip.models.index" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\models\index.py")
+2017-11-27T16:31:06: Parsing "pip.models" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\models\__init__.py")
+2017-11-27T16:31:06: Parsing "pip.operations.check" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\operations\check.py")
+2017-11-27T16:31:06: Parsing "pip.operations.freeze" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\operations\freeze.py")
+2017-11-27T16:31:06: Parsing "pip.operations" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\operations\__init__.py")
+2017-11-27T16:31:06: Parsing "pip.req.req_file" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\req\req_file.py")
+2017-11-27T16:31:06: Parsing "pip.req.req_install" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\req\req_install.py")
+2017-11-27T16:31:06: Parsing "pip.req.req_set" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\req\req_set.py")
+2017-11-27T16:31:06: Parsing "pip.req.req_uninstall" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\req\req_uninstall.py")
+2017-11-27T16:31:06: Parsing "pip.req" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\req\__init__.py")
+2017-11-27T16:31:06: Parsing "pip.utils.appdirs" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\utils\appdirs.py")
+2017-11-27T16:31:06: Parsing "pip.utils.build" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\utils\build.py")
+2017-11-27T16:31:06: Parsing "pip.utils.deprecation" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\utils\deprecation.py")
+2017-11-27T16:31:06: Parsing "pip.utils.encoding" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\utils\encoding.py")
+2017-11-27T16:31:06: Parsing "pip.utils.filesystem" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\utils\filesystem.py")
+2017-11-27T16:31:06: Parsing "pip.utils.glibc" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\utils\glibc.py")
+2017-11-27T16:31:06: Parsing "pip.utils.hashes" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\utils\hashes.py")
+2017-11-27T16:31:06: Parsing "pip.utils.logging" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\utils\logging.py")
+2017-11-27T16:31:06: Parsing "pip.utils.outdated" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\utils\outdated.py")
+2017-11-27T16:31:06: Parsing "pip.utils.packaging" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\utils\packaging.py")
+2017-11-27T16:31:06: Parsing "pip.utils.setuptools_build" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\utils\setuptools_build.py")
+2017-11-27T16:31:06: Parsing "pip.utils.ui" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\utils\ui.py")
+2017-11-27T16:31:06: Parsing "pip.utils" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\utils\__init__.py")
+2017-11-27T16:31:06: Parsing "pip.vcs.bazaar" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\vcs\bazaar.py")
+2017-11-27T16:31:06: Parsing "pip.vcs.git" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\vcs\git.py")
+2017-11-27T16:31:06: Parsing "pip.vcs.mercurial" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\vcs\mercurial.py")
+2017-11-27T16:31:06: Parsing "pip.vcs.subversion" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\vcs\subversion.py")
+2017-11-27T16:31:06: Parsing "pip.vcs" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\vcs\__init__.py")
+2017-11-27T16:31:06: Parsing "pip._vendor.appdirs" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\appdirs.py")
+2017-11-27T16:31:06: Parsing "pip._vendor.distro" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\distro.py")
+2017-11-27T16:31:06: Parsing "pip._vendor.ipaddress" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\ipaddress.py")
+2017-11-27T16:31:06: Parsing "pip._vendor.ordereddict" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\ordereddict.py")
+2017-11-27T16:31:06: Parsing "pip._vendor.pyparsing" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\pyparsing.py")
+2017-11-27T16:31:06: Parsing "pip._vendor.retrying" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\retrying.py")
+2017-11-27T16:31:06: Parsing "pip._vendor.six" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\six.py")
+2017-11-27T16:31:06: Parsing "pip._vendor" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\__init__.py")
+2017-11-27T16:31:06: Parsing "pip._vendor.cachecontrol.adapter" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\cachecontrol\adapter.py")
+2017-11-27T16:31:06: Parsing "pip._vendor.cachecontrol.cache" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\cachecontrol\cache.py")
+2017-11-27T16:31:06: Parsing "pip._vendor.cachecontrol.compat" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\cachecontrol\compat.py")
+2017-11-27T16:31:06: Parsing "pip._vendor.cachecontrol.controller" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\cachecontrol\controller.py")
+2017-11-27T16:31:06: Parsing "pip._vendor.cachecontrol.filewrapper" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\cachecontrol\filewrapper.py")
+2017-11-27T16:31:06: Parsing "pip._vendor.cachecontrol.heuristics" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\cachecontrol\heuristics.py")
+2017-11-27T16:31:06: Parsing "pip._vendor.cachecontrol.serialize" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\cachecontrol\serialize.py")
+2017-11-27T16:31:06: Parsing "pip._vendor.cachecontrol.wrapper" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\cachecontrol\wrapper.py")
+2017-11-27T16:31:06: Parsing "pip._vendor.cachecontrol._cmd" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\cachecontrol\_cmd.py")
+2017-11-27T16:31:06: Parsing "pip._vendor.cachecontrol" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\cachecontrol\__init__.py")
+2017-11-27T16:31:06: Parsing "pip._vendor.cachecontrol.caches.file_cache" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\cachecontrol\caches\file_cache.py")
+2017-11-27T16:31:06: Parsing "pip._vendor.cachecontrol.caches.redis_cache" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\cachecontrol\caches\redis_cache.py")
+2017-11-27T16:31:06: Parsing "pip._vendor.cachecontrol.caches" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\cachecontrol\caches\__init__.py")
+2017-11-27T16:31:06: Parsing "pip._vendor.colorama.ansi" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\colorama\ansi.py")
+2017-11-27T16:31:06: Parsing "pip._vendor.colorama.ansitowin32" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\colorama\ansitowin32.py")
+2017-11-27T16:31:06: Parsing "pip._vendor.colorama.initialise" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\colorama\initialise.py")
+2017-11-27T16:31:06: Parsing "pip._vendor.colorama.win32" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\colorama\win32.py")
+2017-11-27T16:31:06: Parsing "pip._vendor.colorama.winterm" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\colorama\winterm.py")
+2017-11-27T16:31:06: Parsing "pip._vendor.colorama" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\colorama\__init__.py")
+2017-11-27T16:31:06: Parsing "pip._vendor.distlib.compat" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\distlib\compat.py")
+2017-11-27T16:31:06: Parsing "pip._vendor.distlib.database" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\distlib\database.py")
+2017-11-27T16:31:06: Parsing "pip._vendor.distlib.index" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\distlib\index.py")
+2017-11-27T16:31:06: Parsing "pip._vendor.distlib.locators" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\distlib\locators.py")
+2017-11-27T16:31:06: Parsing "pip._vendor.distlib.manifest" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\distlib\manifest.py")
+2017-11-27T16:31:06: Parsing "pip._vendor.distlib.markers" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\distlib\markers.py")
+2017-11-27T16:31:06: Parsing "pip._vendor.distlib.metadata" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\distlib\metadata.py")
+2017-11-27T16:31:06: Parsing "pip._vendor.distlib.resources" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\distlib\resources.py")
+2017-11-27T16:31:06: Parsing "pip._vendor.distlib.scripts" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\distlib\scripts.py")
+2017-11-27T16:31:06: Parsing "pip._vendor.distlib.util" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\distlib\util.py")
+2017-11-27T16:31:06: Parsing "pip._vendor.distlib.version" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\distlib\version.py")
+2017-11-27T16:31:06: Parsing "pip._vendor.distlib.wheel" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\distlib\wheel.py")
+2017-11-27T16:31:06: Parsing "pip._vendor.distlib" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\distlib\__init__.py")
+2017-11-27T16:31:06: Parsing "pip._vendor.distlib._backport.misc" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\distlib\_backport\misc.py")
+2017-11-27T16:31:06: Parsing "pip._vendor.distlib._backport.shutil" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\distlib\_backport\shutil.py")
+2017-11-27T16:31:06: Parsing "pip._vendor.distlib._backport.sysconfig" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\distlib\_backport\sysconfig.py")
+2017-11-27T16:31:06: Parsing "pip._vendor.distlib._backport.tarfile" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\distlib\_backport\tarfile.py")
+2017-11-27T16:31:06: Parsing "pip._vendor.distlib._backport" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\distlib\_backport\__init__.py")
+2017-11-27T16:31:06: Parsing "pip._vendor.html5lib.constants" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\html5lib\constants.py")
+2017-11-27T16:31:06: Parsing "pip._vendor.html5lib.html5parser" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\html5lib\html5parser.py")
+2017-11-27T16:31:06: Parsing "pip._vendor.html5lib.serializer" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\html5lib\serializer.py")
+2017-11-27T16:31:06: Parsing "pip._vendor.html5lib._ihatexml" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\html5lib\_ihatexml.py")
+2017-11-27T16:31:06: Parsing "pip._vendor.html5lib._inputstream" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\html5lib\_inputstream.py")
+2017-11-27T16:31:06: Parsing "pip._vendor.html5lib._tokenizer" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\html5lib\_tokenizer.py")
+2017-11-27T16:31:06: Parsing "pip._vendor.html5lib._utils" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\html5lib\_utils.py")
+2017-11-27T16:31:06: Parsing "pip._vendor.html5lib" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\html5lib\__init__.py")
+2017-11-27T16:31:06: Parsing "pip._vendor.html5lib.filters.alphabeticalattributes" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\html5lib\filters\alphabeticalattributes.py")
+2017-11-27T16:31:06: Parsing "pip._vendor.html5lib.filters.base" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\html5lib\filters\base.py")
+2017-11-27T16:31:06: Parsing "pip._vendor.html5lib.filters.inject_meta_charset" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\html5lib\filters\inject_meta_charset.py")
+2017-11-27T16:31:06: Parsing "pip._vendor.html5lib.filters.lint" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\html5lib\filters\lint.py")
+2017-11-27T16:31:06: Parsing "pip._vendor.html5lib.filters.optionaltags" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\html5lib\filters\optionaltags.py")
+2017-11-27T16:31:06: Parsing "pip._vendor.html5lib.filters.sanitizer" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\html5lib\filters\sanitizer.py")
+2017-11-27T16:31:06: Parsing "pip._vendor.html5lib.filters.whitespace" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\html5lib\filters\whitespace.py")
+2017-11-27T16:31:06: Parsing "pip._vendor.html5lib.filters" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\html5lib\filters\__init__.py")
+2017-11-27T16:31:06: Parsing "pip._vendor.html5lib.treeadapters.genshi" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\html5lib\treeadapters\genshi.py")
+2017-11-27T16:31:06: Parsing "pip._vendor.html5lib.treeadapters.sax" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\html5lib\treeadapters\sax.py")
+2017-11-27T16:31:06: Parsing "pip._vendor.html5lib.treeadapters" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\html5lib\treeadapters\__init__.py")
+2017-11-27T16:31:06: Parsing "pip._vendor.html5lib.treebuilders.base" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\html5lib\treebuilders\base.py")
+2017-11-27T16:31:06: Parsing "pip._vendor.html5lib.treebuilders.dom" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\html5lib\treebuilders\dom.py")
+2017-11-27T16:31:06: Parsing "pip._vendor.html5lib.treebuilders.etree" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\html5lib\treebuilders\etree.py")
+2017-11-27T16:31:06: Parsing "pip._vendor.html5lib.treebuilders.etree_lxml" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\html5lib\treebuilders\etree_lxml.py")
+2017-11-27T16:31:06: Parsing "pip._vendor.html5lib.treebuilders" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\html5lib\treebuilders\__init__.py")
+2017-11-27T16:31:06: Parsing "pip._vendor.html5lib.treewalkers.base" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\html5lib\treewalkers\base.py")
+2017-11-27T16:31:06: Parsing "pip._vendor.html5lib.treewalkers.dom" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\html5lib\treewalkers\dom.py")
+2017-11-27T16:31:06: Parsing "pip._vendor.html5lib.treewalkers.etree" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\html5lib\treewalkers\etree.py")
+2017-11-27T16:31:06: Parsing "pip._vendor.html5lib.treewalkers.etree_lxml" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\html5lib\treewalkers\etree_lxml.py")
+2017-11-27T16:31:06: Parsing "pip._vendor.html5lib.treewalkers.genshi" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\html5lib\treewalkers\genshi.py")
+2017-11-27T16:31:06: Parsing "pip._vendor.html5lib.treewalkers" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\html5lib\treewalkers\__init__.py")
+2017-11-27T16:31:06: Parsing "pip._vendor.html5lib._trie.datrie" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\html5lib\_trie\datrie.py")
+2017-11-27T16:31:06: Parsing "pip._vendor.html5lib._trie.py" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\html5lib\_trie\py.py")
+2017-11-27T16:31:06: Parsing "pip._vendor.html5lib._trie._base" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\html5lib\_trie\_base.py")
+2017-11-27T16:31:06: Parsing "pip._vendor.html5lib._trie" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\html5lib\_trie\__init__.py")
+2017-11-27T16:31:06: Parsing "pip._vendor.lockfile.linklockfile" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\lockfile\linklockfile.py")
+2017-11-27T16:31:06: Parsing "pip._vendor.lockfile.mkdirlockfile" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\lockfile\mkdirlockfile.py")
+2017-11-27T16:31:06: Parsing "pip._vendor.lockfile.pidlockfile" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\lockfile\pidlockfile.py")
+2017-11-27T16:31:06: Parsing "pip._vendor.lockfile.sqlitelockfile" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\lockfile\sqlitelockfile.py")
+2017-11-27T16:31:06: Parsing "pip._vendor.lockfile.symlinklockfile" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\lockfile\symlinklockfile.py")
+2017-11-27T16:31:06: Parsing "pip._vendor.lockfile" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\lockfile\__init__.py")
+2017-11-27T16:31:06: Parsing "pip._vendor.packaging.markers" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\packaging\markers.py")
+2017-11-27T16:31:06: Parsing "pip._vendor.packaging.requirements" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\packaging\requirements.py")
+2017-11-27T16:31:06: Parsing "pip._vendor.packaging.specifiers" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\packaging\specifiers.py")
+2017-11-27T16:31:06: Parsing "pip._vendor.packaging.utils" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\packaging\utils.py")
+2017-11-27T16:31:06: Parsing "pip._vendor.packaging.version" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\packaging\version.py")
+2017-11-27T16:31:06: Parsing "pip._vendor.packaging._compat" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\packaging\_compat.py")
+2017-11-27T16:31:06: Parsing "pip._vendor.packaging._structures" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\packaging\_structures.py")
+2017-11-27T16:31:06: Parsing "pip._vendor.packaging.__about__" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\packaging\__about__.py")
+2017-11-27T16:31:06: Parsing "pip._vendor.packaging" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\packaging\__init__.py")
+2017-11-27T16:31:06: Parsing "pip._vendor.pkg_resources" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\pkg_resources\__init__.py")
+2017-11-27T16:31:07: Parsing "pip._vendor.progress.bar" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\progress\bar.py")
+2017-11-27T16:31:07: Parsing "pip._vendor.progress.counter" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\progress\counter.py")
+2017-11-27T16:31:07: Parsing "pip._vendor.progress.helpers" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\progress\helpers.py")
+2017-11-27T16:31:07: Parsing "pip._vendor.progress.spinner" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\progress\spinner.py")
+2017-11-27T16:31:07: Parsing "pip._vendor.progress" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\progress\__init__.py")
+2017-11-27T16:31:07: Parsing "pip._vendor.requests.adapters" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\adapters.py")
+2017-11-27T16:31:07: Parsing "pip._vendor.requests.api" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\api.py")
+2017-11-27T16:31:07: Parsing "pip._vendor.requests.auth" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\auth.py")
+2017-11-27T16:31:07: Parsing "pip._vendor.requests.certs" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\certs.py")
+2017-11-27T16:31:07: Parsing "pip._vendor.requests.compat" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\compat.py")
+2017-11-27T16:31:07: Parsing "pip._vendor.requests.cookies" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\cookies.py")
+2017-11-27T16:31:07: Parsing "pip._vendor.requests.exceptions" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\exceptions.py")
+2017-11-27T16:31:07: Parsing "pip._vendor.requests.hooks" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\hooks.py")
+2017-11-27T16:31:07: Parsing "pip._vendor.requests.models" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\models.py")
+2017-11-27T16:31:07: Parsing "pip._vendor.requests.sessions" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\sessions.py")
+2017-11-27T16:31:07: Parsing "pip._vendor.requests.status_codes" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\status_codes.py")
+2017-11-27T16:31:07: Parsing "pip._vendor.requests.structures" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\structures.py")
+2017-11-27T16:31:07: Parsing "pip._vendor.requests.utils" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\utils.py")
+2017-11-27T16:31:07: Parsing "pip._vendor.requests" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\__init__.py")
+2017-11-27T16:31:07: Parsing "pip._vendor.requests.packages" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\__init__.py")
+2017-11-27T16:31:07: Parsing "pip._vendor.requests.packages.chardet.big5freq" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\big5freq.py")
+2017-11-27T16:31:07: Parsing "pip._vendor.requests.packages.chardet.big5prober" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\big5prober.py")
+2017-11-27T16:31:07: Parsing "pip._vendor.requests.packages.chardet.chardetect" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\chardetect.py")
+2017-11-27T16:31:07: Parsing "pip._vendor.requests.packages.chardet.chardistribution" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\chardistribution.py")
+2017-11-27T16:31:07: Parsing "pip._vendor.requests.packages.chardet.charsetgroupprober" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\charsetgroupprober.py")
+2017-11-27T16:31:07: Parsing "pip._vendor.requests.packages.chardet.charsetprober" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\charsetprober.py")
+2017-11-27T16:31:07: Parsing "pip._vendor.requests.packages.chardet.codingstatemachine" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\codingstatemachine.py")
+2017-11-27T16:31:07: Parsing "pip._vendor.requests.packages.chardet.compat" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\compat.py")
+2017-11-27T16:31:07: Parsing "pip._vendor.requests.packages.chardet.constants" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\constants.py")
+2017-11-27T16:31:07: Parsing "pip._vendor.requests.packages.chardet.cp949prober" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\cp949prober.py")
+2017-11-27T16:31:07: Parsing "pip._vendor.requests.packages.chardet.escprober" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\escprober.py")
+2017-11-27T16:31:07: Parsing "pip._vendor.requests.packages.chardet.escsm" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\escsm.py")
+2017-11-27T16:31:07: Parsing "pip._vendor.requests.packages.chardet.eucjpprober" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\eucjpprober.py")
+2017-11-27T16:31:07: Parsing "pip._vendor.requests.packages.chardet.euckrfreq" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\euckrfreq.py")
+2017-11-27T16:31:07: Parsing "pip._vendor.requests.packages.chardet.euckrprober" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\euckrprober.py")
+2017-11-27T16:31:07: Parsing "pip._vendor.requests.packages.chardet.euctwfreq" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\euctwfreq.py")
+2017-11-27T16:31:07: Parsing "pip._vendor.requests.packages.chardet.euctwprober" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\euctwprober.py")
+2017-11-27T16:31:07: Parsing "pip._vendor.requests.packages.chardet.gb2312freq" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\gb2312freq.py")
+2017-11-27T16:31:07: Parsing "pip._vendor.requests.packages.chardet.gb2312prober" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\gb2312prober.py")
+2017-11-27T16:31:07: Parsing "pip._vendor.requests.packages.chardet.hebrewprober" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\hebrewprober.py")
+2017-11-27T16:31:07: Parsing "pip._vendor.requests.packages.chardet.jisfreq" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\jisfreq.py")
+2017-11-27T16:31:07: Parsing "pip._vendor.requests.packages.chardet.jpcntx" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\jpcntx.py")
+2017-11-27T16:31:07: Parsing "pip._vendor.requests.packages.chardet.langbulgarianmodel" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\langbulgarianmodel.py")
+2017-11-27T16:31:07: Parsing "pip._vendor.requests.packages.chardet.langcyrillicmodel" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\langcyrillicmodel.py")
+2017-11-27T16:31:07: Parsing "pip._vendor.requests.packages.chardet.langgreekmodel" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\langgreekmodel.py")
+2017-11-27T16:31:07: Parsing "pip._vendor.requests.packages.chardet.langhebrewmodel" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\langhebrewmodel.py")
+2017-11-27T16:31:07: Parsing "pip._vendor.requests.packages.chardet.langhungarianmodel" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\langhungarianmodel.py")
+2017-11-27T16:31:07: Parsing "pip._vendor.requests.packages.chardet.langthaimodel" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\langthaimodel.py")
+2017-11-27T16:31:07: Parsing "pip._vendor.requests.packages.chardet.latin1prober" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\latin1prober.py")
+2017-11-27T16:31:07: Parsing "pip._vendor.requests.packages.chardet.mbcharsetprober" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\mbcharsetprober.py")
+2017-11-27T16:31:07: Parsing "pip._vendor.requests.packages.chardet.mbcsgroupprober" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\mbcsgroupprober.py")
+2017-11-27T16:31:07: Parsing "pip._vendor.requests.packages.chardet.mbcssm" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\mbcssm.py")
+2017-11-27T16:31:07: Parsing "pip._vendor.requests.packages.chardet.sbcharsetprober" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\sbcharsetprober.py")
+2017-11-27T16:31:07: Parsing "pip._vendor.requests.packages.chardet.sbcsgroupprober" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\sbcsgroupprober.py")
+2017-11-27T16:31:07: Parsing "pip._vendor.requests.packages.chardet.sjisprober" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\sjisprober.py")
+2017-11-27T16:31:07: Parsing "pip._vendor.requests.packages.chardet.universaldetector" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\universaldetector.py")
+2017-11-27T16:31:07: Parsing "pip._vendor.requests.packages.chardet.utf8prober" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\utf8prober.py")
+2017-11-27T16:31:07: Parsing "pip._vendor.requests.packages.chardet" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\__init__.py")
+2017-11-27T16:31:07: Parsing "pip._vendor.requests.packages.urllib3.connection" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\connection.py")
+2017-11-27T16:31:07: Parsing "pip._vendor.requests.packages.urllib3.connectionpool" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\connectionpool.py")
+2017-11-27T16:31:07: Parsing "pip._vendor.requests.packages.urllib3.exceptions" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\exceptions.py")
+2017-11-27T16:31:07: Parsing "pip._vendor.requests.packages.urllib3.fields" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\fields.py")
+2017-11-27T16:31:07: Parsing "pip._vendor.requests.packages.urllib3.filepost" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\filepost.py")
+2017-11-27T16:31:07: Parsing "pip._vendor.requests.packages.urllib3.poolmanager" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\poolmanager.py")
+2017-11-27T16:31:07: Parsing "pip._vendor.requests.packages.urllib3.request" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\request.py")
+2017-11-27T16:31:07: Parsing "pip._vendor.requests.packages.urllib3.response" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\response.py")
+2017-11-27T16:31:07: Parsing "pip._vendor.requests.packages.urllib3._collections" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\_collections.py")
+2017-11-27T16:31:07: Parsing "pip._vendor.requests.packages.urllib3" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\__init__.py")
+2017-11-27T16:31:07: Parsing "pip._vendor.requests.packages.urllib3.contrib.appengine" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\contrib\appengine.py")
+2017-11-27T16:31:07: Parsing "pip._vendor.requests.packages.urllib3.contrib.ntlmpool" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\contrib\ntlmpool.py")
+2017-11-27T16:31:07: Parsing "pip._vendor.requests.packages.urllib3.contrib.pyopenssl" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\contrib\pyopenssl.py")
+2017-11-27T16:31:07: Parsing "pip._vendor.requests.packages.urllib3.contrib.socks" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\contrib\socks.py")
+2017-11-27T16:31:07: Parsing "pip._vendor.requests.packages.urllib3.contrib" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\contrib\__init__.py")
+2017-11-27T16:31:07: Parsing "pip._vendor.requests.packages.urllib3.packages.ordered_dict" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\packages\ordered_dict.py")
+2017-11-27T16:31:07: Parsing "pip._vendor.requests.packages.urllib3.packages.six" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\packages\six.py")
+2017-11-27T16:31:07: Parsing "pip._vendor.requests.packages.urllib3.packages" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\packages\__init__.py")
+2017-11-27T16:31:07: Parsing "pip._vendor.requests.packages.urllib3.packages.ssl_match_hostname._implementation" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\packages\ssl_match_hostname\_implementation.py")
+2017-11-27T16:31:07: Parsing "pip._vendor.requests.packages.urllib3.packages.ssl_match_hostname" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\packages\ssl_match_hostname\__init__.py")
+2017-11-27T16:31:07: Parsing "pip._vendor.requests.packages.urllib3.util.connection" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\util\connection.py")
+2017-11-27T16:31:07: Parsing "pip._vendor.requests.packages.urllib3.util.request" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\util\request.py")
+2017-11-27T16:31:07: Parsing "pip._vendor.requests.packages.urllib3.util.response" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\util\response.py")
+2017-11-27T16:31:07: Parsing "pip._vendor.requests.packages.urllib3.util.retry" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\util\retry.py")
+2017-11-27T16:31:07: Parsing "pip._vendor.requests.packages.urllib3.util.ssl_" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\util\ssl_.py")
+2017-11-27T16:31:07: Parsing "pip._vendor.requests.packages.urllib3.util.timeout" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\util\timeout.py")
+2017-11-27T16:31:07: Parsing "pip._vendor.requests.packages.urllib3.util.url" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\util\url.py")
+2017-11-27T16:31:07: Parsing "pip._vendor.requests.packages.urllib3.util" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\util\__init__.py")
+2017-11-27T16:31:07: Parsing "pip._vendor.webencodings.labels" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\webencodings\labels.py")
+2017-11-27T16:31:07: Parsing "pip._vendor.webencodings.mklabels" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\webencodings\mklabels.py")
+2017-11-27T16:31:07: Parsing "pip._vendor.webencodings.tests" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\webencodings\tests.py")
+2017-11-27T16:31:07: Parsing "pip._vendor.webencodings.x_user_defined" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\webencodings\x_user_defined.py")
+2017-11-27T16:31:07: Parsing "pip._vendor.webencodings" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip\_vendor\webencodings\__init__.py")
+2017-11-27T16:31:07: Parsing complete
+2017-11-27T16:31:07: Analyzing "pip.basecommand"
+2017-11-27T16:31:07: Analyzing "pip.baseparser"
+2017-11-27T16:31:07: Analyzing "pip.cmdoptions"
+2017-11-27T16:31:07: Analyzing "pip.download"
+2017-11-27T16:31:07: Analyzing "pip.exceptions"
+2017-11-27T16:31:07: Analyzing "pip.index"
+2017-11-27T16:31:07: Analyzing "pip.locations"
+2017-11-27T16:31:07: Analyzing "pip.pep425tags"
+2017-11-27T16:31:07: Analyzing "pip.status_codes"
+2017-11-27T16:31:07: Analyzing "pip.wheel"
+2017-11-27T16:31:07: Analyzing "pip"
+2017-11-27T16:31:07: Analyzing "pip.__main__"
+2017-11-27T16:31:07: Analyzing "pip.commands.check"
+2017-11-27T16:31:07: Analyzing "pip.commands.completion"
+2017-11-27T16:31:07: Analyzing "pip.commands.download"
+2017-11-27T16:31:07: Analyzing "pip.commands.freeze"
+2017-11-27T16:31:07: Analyzing "pip.commands.hash"
+2017-11-27T16:31:07: Analyzing "pip.commands.help"
+2017-11-27T16:31:07: Analyzing "pip.commands.install"
+2017-11-27T16:31:07: Analyzing "pip.commands.list"
+2017-11-27T16:31:07: Analyzing "pip.commands.search"
+2017-11-27T16:31:07: Analyzing "pip.commands.show"
+2017-11-27T16:31:07: Analyzing "pip.commands.uninstall"
+2017-11-27T16:31:07: Analyzing "pip.commands.wheel"
+2017-11-27T16:31:07: Analyzing "pip.commands"
+2017-11-27T16:31:07: Analyzing "pip.compat.dictconfig"
+2017-11-27T16:31:07: Analyzing "pip.compat"
+2017-11-27T16:31:07: Analyzing "pip.models.index"
+2017-11-27T16:31:07: Analyzing "pip.models"
+2017-11-27T16:31:07: Analyzing "pip.operations.check"
+2017-11-27T16:31:07: Analyzing "pip.operations.freeze"
+2017-11-27T16:31:07: Analyzing "pip.operations"
+2017-11-27T16:31:07: Analyzing "pip.req.req_file"
+2017-11-27T16:31:07: Analyzing "pip.req.req_install"
+2017-11-27T16:31:07: Analyzing "pip.req.req_set"
+2017-11-27T16:31:07: Analyzing "pip.req.req_uninstall"
+2017-11-27T16:31:07: Analyzing "pip.req"
+2017-11-27T16:31:07: Analyzing "pip.utils.appdirs"
+2017-11-27T16:31:07: Analyzing "pip.utils.build"
+2017-11-27T16:31:07: Analyzing "pip.utils.deprecation"
+2017-11-27T16:31:07: Analyzing "pip.utils.encoding"
+2017-11-27T16:31:07: Analyzing "pip.utils.filesystem"
+2017-11-27T16:31:07: Analyzing "pip.utils.glibc"
+2017-11-27T16:31:07: Analyzing "pip.utils.hashes"
+2017-11-27T16:31:07: Analyzing "pip.utils.logging"
+2017-11-27T16:31:07: Analyzing "pip.utils.outdated"
+2017-11-27T16:31:07: Analyzing "pip.utils.packaging"
+2017-11-27T16:31:07: Analyzing "pip.utils.setuptools_build"
+2017-11-27T16:31:07: Analyzing "pip.utils.ui"
+2017-11-27T16:31:07: Analyzing "pip.utils"
+2017-11-27T16:31:07: Analyzing "pip.vcs.bazaar"
+2017-11-27T16:31:07: Analyzing "pip.vcs.git"
+2017-11-27T16:31:07: Analyzing "pip.vcs.mercurial"
+2017-11-27T16:31:07: Analyzing "pip.vcs.subversion"
+2017-11-27T16:31:07: Analyzing "pip.vcs"
+2017-11-27T16:31:07: Analyzing "pip._vendor.appdirs"
+2017-11-27T16:31:07: Analyzing "pip._vendor.distro"
+2017-11-27T16:31:07: Analyzing "pip._vendor.ipaddress"
+2017-11-27T16:31:07: Analyzing "pip._vendor.ordereddict"
+2017-11-27T16:31:07: Analyzing "pip._vendor.pyparsing"
+2017-11-27T16:31:07: Analyzing "pip._vendor.retrying"
+2017-11-27T16:31:07: Analyzing "pip._vendor.six"
+2017-11-27T16:31:07: Analyzing "pip._vendor"
+2017-11-27T16:31:07: Analyzing "pip._vendor.cachecontrol.adapter"
+2017-11-27T16:31:07: Analyzing "pip._vendor.cachecontrol.cache"
+2017-11-27T16:31:07: Analyzing "pip._vendor.cachecontrol.compat"
+2017-11-27T16:31:07: Analyzing "pip._vendor.cachecontrol.controller"
+2017-11-27T16:31:07: Analyzing "pip._vendor.cachecontrol.filewrapper"
+2017-11-27T16:31:07: Analyzing "pip._vendor.cachecontrol.heuristics"
+2017-11-27T16:31:07: Analyzing "pip._vendor.cachecontrol.serialize"
+2017-11-27T16:31:07: Analyzing "pip._vendor.cachecontrol.wrapper"
+2017-11-27T16:31:07: Analyzing "pip._vendor.cachecontrol._cmd"
+2017-11-27T16:31:07: Analyzing "pip._vendor.cachecontrol"
+2017-11-27T16:31:07: Analyzing "pip._vendor.cachecontrol.caches.file_cache"
+2017-11-27T16:31:07: Analyzing "pip._vendor.cachecontrol.caches.redis_cache"
+2017-11-27T16:31:07: Analyzing "pip._vendor.cachecontrol.caches"
+2017-11-27T16:31:07: Analyzing "pip._vendor.colorama.ansi"
+2017-11-27T16:31:07: Analyzing "pip._vendor.colorama.ansitowin32"
+2017-11-27T16:31:07: Analyzing "pip._vendor.colorama.initialise"
+2017-11-27T16:31:07: Analyzing "pip._vendor.colorama.win32"
+2017-11-27T16:31:07: Analyzing "pip._vendor.colorama.winterm"
+2017-11-27T16:31:07: Analyzing "pip._vendor.colorama"
+2017-11-27T16:31:07: Analyzing "pip._vendor.distlib.compat"
+2017-11-27T16:31:07: Analyzing "pip._vendor.distlib.database"
+2017-11-27T16:31:07: Analyzing "pip._vendor.distlib.index"
+2017-11-27T16:31:07: Analyzing "pip._vendor.distlib.locators"
+2017-11-27T16:31:07: Analyzing "pip._vendor.distlib.manifest"
+2017-11-27T16:31:07: Analyzing "pip._vendor.distlib.markers"
+2017-11-27T16:31:07: Analyzing "pip._vendor.distlib.metadata"
+2017-11-27T16:31:07: Analyzing "pip._vendor.distlib.resources"
+2017-11-27T16:31:07: Analyzing "pip._vendor.distlib.scripts"
+2017-11-27T16:31:07: Analyzing "pip._vendor.distlib.util"
+2017-11-27T16:31:07: Analyzing "pip._vendor.distlib.version"
+2017-11-27T16:31:07: Analyzing "pip._vendor.distlib.wheel"
+2017-11-27T16:31:07: Analyzing "pip._vendor.distlib"
+2017-11-27T16:31:07: Analyzing "pip._vendor.distlib._backport.misc"
+2017-11-27T16:31:07: Analyzing "pip._vendor.distlib._backport.shutil"
+2017-11-27T16:31:07: Analyzing "pip._vendor.distlib._backport.sysconfig"
+2017-11-27T16:31:07: Analyzing "pip._vendor.distlib._backport.tarfile"
+2017-11-27T16:31:07: Analyzing "pip._vendor.distlib._backport"
+2017-11-27T16:31:07: Analyzing "pip._vendor.html5lib.constants"
+2017-11-27T16:31:07: Analyzing "pip._vendor.html5lib.html5parser"
+2017-11-27T16:31:07: Analyzing "pip._vendor.html5lib.serializer"
+2017-11-27T16:31:07: Analyzing "pip._vendor.html5lib._ihatexml"
+2017-11-27T16:31:07: Analyzing "pip._vendor.html5lib._inputstream"
+2017-11-27T16:31:07: Analyzing "pip._vendor.html5lib._tokenizer"
+2017-11-27T16:31:07: Analyzing "pip._vendor.html5lib._utils"
+2017-11-27T16:31:07: Analyzing "pip._vendor.html5lib"
+2017-11-27T16:31:07: Analyzing "pip._vendor.html5lib.filters.alphabeticalattributes"
+2017-11-27T16:31:07: Analyzing "pip._vendor.html5lib.filters.base"
+2017-11-27T16:31:07: Analyzing "pip._vendor.html5lib.filters.inject_meta_charset"
+2017-11-27T16:31:07: Analyzing "pip._vendor.html5lib.filters.lint"
+2017-11-27T16:31:07: Analyzing "pip._vendor.html5lib.filters.optionaltags"
+2017-11-27T16:31:07: Analyzing "pip._vendor.html5lib.filters.sanitizer"
+2017-11-27T16:31:07: Analyzing "pip._vendor.html5lib.filters.whitespace"
+2017-11-27T16:31:07: Analyzing "pip._vendor.html5lib.filters"
+2017-11-27T16:31:07: Analyzing "pip._vendor.html5lib.treeadapters.genshi"
+2017-11-27T16:31:07: Analyzing "pip._vendor.html5lib.treeadapters.sax"
+2017-11-27T16:31:07: Analyzing "pip._vendor.html5lib.treeadapters"
+2017-11-27T16:31:07: Analyzing "pip._vendor.html5lib.treebuilders.base"
+2017-11-27T16:31:07: Analyzing "pip._vendor.html5lib.treebuilders.dom"
+2017-11-27T16:31:07: Analyzing "pip._vendor.html5lib.treebuilders.etree"
+2017-11-27T16:31:07: Analyzing "pip._vendor.html5lib.treebuilders.etree_lxml"
+2017-11-27T16:31:07: Analyzing "pip._vendor.html5lib.treebuilders"
+2017-11-27T16:31:07: Analyzing "pip._vendor.html5lib.treewalkers.base"
+2017-11-27T16:31:07: Analyzing "pip._vendor.html5lib.treewalkers.dom"
+2017-11-27T16:31:07: Analyzing "pip._vendor.html5lib.treewalkers.etree"
+2017-11-27T16:31:07: Analyzing "pip._vendor.html5lib.treewalkers.etree_lxml"
+2017-11-27T16:31:07: Analyzing "pip._vendor.html5lib.treewalkers.genshi"
+2017-11-27T16:31:07: Analyzing "pip._vendor.html5lib.treewalkers"
+2017-11-27T16:31:07: Analyzing "pip._vendor.html5lib._trie.datrie"
+2017-11-27T16:31:07: Analyzing "pip._vendor.html5lib._trie.py"
+2017-11-27T16:31:07: Analyzing "pip._vendor.html5lib._trie._base"
+2017-11-27T16:31:07: Analyzing "pip._vendor.html5lib._trie"
+2017-11-27T16:31:07: Analyzing "pip._vendor.lockfile.linklockfile"
+2017-11-27T16:31:07: Analyzing "pip._vendor.lockfile.mkdirlockfile"
+2017-11-27T16:31:07: Analyzing "pip._vendor.lockfile.pidlockfile"
+2017-11-27T16:31:07: Analyzing "pip._vendor.lockfile.sqlitelockfile"
+2017-11-27T16:31:07: Analyzing "pip._vendor.lockfile.symlinklockfile"
+2017-11-27T16:31:07: Analyzing "pip._vendor.lockfile"
+2017-11-27T16:31:07: Analyzing "pip._vendor.packaging.markers"
+2017-11-27T16:31:07: Analyzing "pip._vendor.packaging.requirements"
+2017-11-27T16:31:07: Analyzing "pip._vendor.packaging.specifiers"
+2017-11-27T16:31:07: Analyzing "pip._vendor.packaging.utils"
+2017-11-27T16:31:07: Analyzing "pip._vendor.packaging.version"
+2017-11-27T16:31:07: Analyzing "pip._vendor.packaging._compat"
+2017-11-27T16:31:07: Analyzing "pip._vendor.packaging._structures"
+2017-11-27T16:31:07: Analyzing "pip._vendor.packaging.__about__"
+2017-11-27T16:31:07: Analyzing "pip._vendor.packaging"
+2017-11-27T16:31:07: Analyzing "pip._vendor.pkg_resources"
+2017-11-27T16:31:07: Analyzing "pip._vendor.progress.bar"
+2017-11-27T16:31:07: Analyzing "pip._vendor.progress.counter"
+2017-11-27T16:31:07: Analyzing "pip._vendor.progress.helpers"
+2017-11-27T16:31:07: Analyzing "pip._vendor.progress.spinner"
+2017-11-27T16:31:07: Analyzing "pip._vendor.progress"
+2017-11-27T16:31:07: Analyzing "pip._vendor.requests.adapters"
+2017-11-27T16:31:07: Analyzing "pip._vendor.requests.api"
+2017-11-27T16:31:07: Analyzing "pip._vendor.requests.auth"
+2017-11-27T16:31:07: Analyzing "pip._vendor.requests.certs"
+2017-11-27T16:31:07: Analyzing "pip._vendor.requests.compat"
+2017-11-27T16:31:07: Analyzing "pip._vendor.requests.cookies"
+2017-11-27T16:31:07: Analyzing "pip._vendor.requests.exceptions"
+2017-11-27T16:31:07: Analyzing "pip._vendor.requests.hooks"
+2017-11-27T16:31:07: Analyzing "pip._vendor.requests.models"
+2017-11-27T16:31:07: Analyzing "pip._vendor.requests.sessions"
+2017-11-27T16:31:07: Analyzing "pip._vendor.requests.status_codes"
+2017-11-27T16:31:07: Analyzing "pip._vendor.requests.structures"
+2017-11-27T16:31:07: Analyzing "pip._vendor.requests.utils"
+2017-11-27T16:31:07: Analyzing "pip._vendor.requests"
+2017-11-27T16:31:07: Analyzing "pip._vendor.requests.packages"
+2017-11-27T16:31:07: Analyzing "pip._vendor.requests.packages.chardet.big5freq"
+2017-11-27T16:31:07: Analyzing "pip._vendor.requests.packages.chardet.big5prober"
+2017-11-27T16:31:07: Analyzing "pip._vendor.requests.packages.chardet.chardetect"
+2017-11-27T16:31:07: Analyzing "pip._vendor.requests.packages.chardet.chardistribution"
+2017-11-27T16:31:07: Analyzing "pip._vendor.requests.packages.chardet.charsetgroupprober"
+2017-11-27T16:31:07: Analyzing "pip._vendor.requests.packages.chardet.charsetprober"
+2017-11-27T16:31:07: Analyzing "pip._vendor.requests.packages.chardet.codingstatemachine"
+2017-11-27T16:31:07: Analyzing "pip._vendor.requests.packages.chardet.compat"
+2017-11-27T16:31:07: Analyzing "pip._vendor.requests.packages.chardet.constants"
+2017-11-27T16:31:07: Analyzing "pip._vendor.requests.packages.chardet.cp949prober"
+2017-11-27T16:31:07: Analyzing "pip._vendor.requests.packages.chardet.escprober"
+2017-11-27T16:31:07: Analyzing "pip._vendor.requests.packages.chardet.escsm"
+2017-11-27T16:31:07: Analyzing "pip._vendor.requests.packages.chardet.eucjpprober"
+2017-11-27T16:31:07: Analyzing "pip._vendor.requests.packages.chardet.euckrfreq"
+2017-11-27T16:31:07: Analyzing "pip._vendor.requests.packages.chardet.euckrprober"
+2017-11-27T16:31:07: Analyzing "pip._vendor.requests.packages.chardet.euctwfreq"
+2017-11-27T16:31:07: Analyzing "pip._vendor.requests.packages.chardet.euctwprober"
+2017-11-27T16:31:07: Analyzing "pip._vendor.requests.packages.chardet.gb2312freq"
+2017-11-27T16:31:07: Analyzing "pip._vendor.requests.packages.chardet.gb2312prober"
+2017-11-27T16:31:07: Analyzing "pip._vendor.requests.packages.chardet.hebrewprober"
+2017-11-27T16:31:07: Analyzing "pip._vendor.requests.packages.chardet.jisfreq"
+2017-11-27T16:31:07: Analyzing "pip._vendor.requests.packages.chardet.jpcntx"
+2017-11-27T16:31:07: Analyzing "pip._vendor.requests.packages.chardet.langbulgarianmodel"
+2017-11-27T16:31:07: Analyzing "pip._vendor.requests.packages.chardet.langcyrillicmodel"
+2017-11-27T16:31:07: Analyzing "pip._vendor.requests.packages.chardet.langgreekmodel"
+2017-11-27T16:31:07: Analyzing "pip._vendor.requests.packages.chardet.langhebrewmodel"
+2017-11-27T16:31:07: Analyzing "pip._vendor.requests.packages.chardet.langhungarianmodel"
+2017-11-27T16:31:07: Analyzing "pip._vendor.requests.packages.chardet.langthaimodel"
+2017-11-27T16:31:07: Analyzing "pip._vendor.requests.packages.chardet.latin1prober"
+2017-11-27T16:31:07: Analyzing "pip._vendor.requests.packages.chardet.mbcharsetprober"
+2017-11-27T16:31:07: Analyzing "pip._vendor.requests.packages.chardet.mbcsgroupprober"
+2017-11-27T16:31:07: Analyzing "pip._vendor.requests.packages.chardet.mbcssm"
+2017-11-27T16:31:07: Analyzing "pip._vendor.requests.packages.chardet.sbcharsetprober"
+2017-11-27T16:31:07: Analyzing "pip._vendor.requests.packages.chardet.sbcsgroupprober"
+2017-11-27T16:31:07: Analyzing "pip._vendor.requests.packages.chardet.sjisprober"
+2017-11-27T16:31:07: Analyzing "pip._vendor.requests.packages.chardet.universaldetector"
+2017-11-27T16:31:07: Analyzing "pip._vendor.requests.packages.chardet.utf8prober"
+2017-11-27T16:31:07: Analyzing "pip._vendor.requests.packages.chardet"
+2017-11-27T16:31:07: Analyzing "pip._vendor.requests.packages.urllib3.connection"
+2017-11-27T16:31:07: Analyzing "pip._vendor.requests.packages.urllib3.connectionpool"
+2017-11-27T16:31:07: Analyzing "pip._vendor.requests.packages.urllib3.exceptions"
+2017-11-27T16:31:07: Analyzing "pip._vendor.requests.packages.urllib3.fields"
+2017-11-27T16:31:07: Analyzing "pip._vendor.requests.packages.urllib3.filepost"
+2017-11-27T16:31:07: Analyzing "pip._vendor.requests.packages.urllib3.poolmanager"
+2017-11-27T16:31:07: Analyzing "pip._vendor.requests.packages.urllib3.request"
+2017-11-27T16:31:07: Analyzing "pip._vendor.requests.packages.urllib3.response"
+2017-11-27T16:31:07: Analyzing "pip._vendor.requests.packages.urllib3._collections"
+2017-11-27T16:31:07: Analyzing "pip._vendor.requests.packages.urllib3"
+2017-11-27T16:31:07: Analyzing "pip._vendor.requests.packages.urllib3.contrib.appengine"
+2017-11-27T16:31:07: Analyzing "pip._vendor.requests.packages.urllib3.contrib.ntlmpool"
+2017-11-27T16:31:07: Analyzing "pip._vendor.requests.packages.urllib3.contrib.pyopenssl"
+2017-11-27T16:31:07: Analyzing "pip._vendor.requests.packages.urllib3.contrib.socks"
+2017-11-27T16:31:07: Analyzing "pip._vendor.requests.packages.urllib3.contrib"
+2017-11-27T16:31:07: Analyzing "pip._vendor.requests.packages.urllib3.packages.ordered_dict"
+2017-11-27T16:31:07: Analyzing "pip._vendor.requests.packages.urllib3.packages.six"
+2017-11-27T16:31:07: Analyzing "pip._vendor.requests.packages.urllib3.packages"
+2017-11-27T16:31:07: Analyzing "pip._vendor.requests.packages.urllib3.packages.ssl_match_hostname._implementation"
+2017-11-27T16:31:07: Analyzing "pip._vendor.requests.packages.urllib3.packages.ssl_match_hostname"
+2017-11-27T16:31:07: Analyzing "pip._vendor.requests.packages.urllib3.util.connection"
+2017-11-27T16:31:07: Analyzing "pip._vendor.requests.packages.urllib3.util.request"
+2017-11-27T16:31:07: Analyzing "pip._vendor.requests.packages.urllib3.util.response"
+2017-11-27T16:31:07: Analyzing "pip._vendor.requests.packages.urllib3.util.retry"
+2017-11-27T16:31:07: Analyzing "pip._vendor.requests.packages.urllib3.util.ssl_"
+2017-11-27T16:31:07: Analyzing "pip._vendor.requests.packages.urllib3.util.timeout"
+2017-11-27T16:31:07: Analyzing "pip._vendor.requests.packages.urllib3.util.url"
+2017-11-27T16:31:07: Analyzing "pip._vendor.requests.packages.urllib3.util"
+2017-11-27T16:31:07: Analyzing "pip._vendor.webencodings.labels"
+2017-11-27T16:31:07: Analyzing "pip._vendor.webencodings.mklabels"
+2017-11-27T16:31:07: Analyzing "pip._vendor.webencodings.tests"
+2017-11-27T16:31:07: Analyzing "pip._vendor.webencodings.x_user_defined"
+2017-11-27T16:31:07: Analyzing "pip._vendor.webencodings"
+2017-11-27T16:31:07: Starting analysis of 241 modules
+2017-11-27T16:31:12: Analysis complete
+2017-11-27T16:31:12: Saving group "c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip"
+2017-11-27T16:31:17: End of group "c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pip"
+2017-11-27T16:31:17: Start group "c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pkg_resources" with 15 files
+2017-11-27T16:31:18: Parsing "pkg_resources" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pkg_resources\__init__.py")
+2017-11-27T16:31:18: Parsing "pkg_resources.extern" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pkg_resources\extern\__init__.py")
+2017-11-27T16:31:18: Parsing "pkg_resources._vendor.appdirs" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pkg_resources\_vendor\appdirs.py")
+2017-11-27T16:31:18: Parsing "pkg_resources._vendor.pyparsing" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pkg_resources\_vendor\pyparsing.py")
+2017-11-27T16:31:18: Parsing "pkg_resources._vendor.six" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pkg_resources\_vendor\six.py")
+2017-11-27T16:31:18: Parsing "pkg_resources._vendor" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pkg_resources\_vendor\__init__.py")
+2017-11-27T16:31:18: Parsing "pkg_resources._vendor.packaging.markers" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pkg_resources\_vendor\packaging\markers.py")
+2017-11-27T16:31:18: Parsing "pkg_resources._vendor.packaging.requirements" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pkg_resources\_vendor\packaging\requirements.py")
+2017-11-27T16:31:18: Parsing "pkg_resources._vendor.packaging.specifiers" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pkg_resources\_vendor\packaging\specifiers.py")
+2017-11-27T16:31:18: Parsing "pkg_resources._vendor.packaging.utils" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pkg_resources\_vendor\packaging\utils.py")
+2017-11-27T16:31:18: Parsing "pkg_resources._vendor.packaging.version" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pkg_resources\_vendor\packaging\version.py")
+2017-11-27T16:31:18: Parsing "pkg_resources._vendor.packaging._compat" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pkg_resources\_vendor\packaging\_compat.py")
+2017-11-27T16:31:18: Parsing "pkg_resources._vendor.packaging._structures" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pkg_resources\_vendor\packaging\_structures.py")
+2017-11-27T16:31:18: Parsing "pkg_resources._vendor.packaging.__about__" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pkg_resources\_vendor\packaging\__about__.py")
+2017-11-27T16:31:18: Parsing "pkg_resources._vendor.packaging" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pkg_resources\_vendor\packaging\__init__.py")
+2017-11-27T16:31:18: Parsing complete
+2017-11-27T16:31:18: Analyzing "pkg_resources"
+2017-11-27T16:31:18: Analyzing "pkg_resources.extern"
+2017-11-27T16:31:18: Analyzing "pkg_resources._vendor.appdirs"
+2017-11-27T16:31:18: Analyzing "pkg_resources._vendor.pyparsing"
+2017-11-27T16:31:18: Analyzing "pkg_resources._vendor.six"
+2017-11-27T16:31:18: Analyzing "pkg_resources._vendor"
+2017-11-27T16:31:18: Analyzing "pkg_resources._vendor.packaging.markers"
+2017-11-27T16:31:18: Analyzing "pkg_resources._vendor.packaging.requirements"
+2017-11-27T16:31:18: Analyzing "pkg_resources._vendor.packaging.specifiers"
+2017-11-27T16:31:18: Analyzing "pkg_resources._vendor.packaging.utils"
+2017-11-27T16:31:18: Analyzing "pkg_resources._vendor.packaging.version"
+2017-11-27T16:31:18: Analyzing "pkg_resources._vendor.packaging._compat"
+2017-11-27T16:31:18: Analyzing "pkg_resources._vendor.packaging._structures"
+2017-11-27T16:31:18: Analyzing "pkg_resources._vendor.packaging.__about__"
+2017-11-27T16:31:18: Analyzing "pkg_resources._vendor.packaging"
+2017-11-27T16:31:18: Starting analysis of 15 modules
+2017-11-27T16:31:20: Analysis complete
+2017-11-27T16:31:20: Saving group "c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pkg_resources"
+2017-11-27T16:31:20: End of group "c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\pkg_resources"
+2017-11-27T16:31:20: Start group "c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\setuptools" with 44 files
+2017-11-27T16:31:20: Parsing "setuptools.archive_util" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\setuptools\archive_util.py")
+2017-11-27T16:31:20: Parsing "setuptools.depends" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\setuptools\depends.py")
+2017-11-27T16:31:20: Parsing "setuptools.dist" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\setuptools\dist.py")
+2017-11-27T16:31:20: Parsing "setuptools.extension" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\setuptools\extension.py")
+2017-11-27T16:31:20: Parsing "setuptools.glob" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\setuptools\glob.py")
+2017-11-27T16:31:20: Parsing "setuptools.launch" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\setuptools\launch.py")
+2017-11-27T16:31:20: Parsing "setuptools.lib2to3_ex" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\setuptools\lib2to3_ex.py")
+2017-11-27T16:31:20: Parsing "setuptools.monkey" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\setuptools\monkey.py")
+2017-11-27T16:31:20: Parsing "setuptools.msvc" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\setuptools\msvc.py")
+2017-11-27T16:31:20: Parsing "setuptools.namespaces" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\setuptools\namespaces.py")
+2017-11-27T16:31:20: Parsing "setuptools.package_index" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\setuptools\package_index.py")
+2017-11-27T16:31:20: Parsing "setuptools.py26compat" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\setuptools\py26compat.py")
+2017-11-27T16:31:20: Parsing "setuptools.py27compat" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\setuptools\py27compat.py")
+2017-11-27T16:31:20: Parsing "setuptools.py31compat" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\setuptools\py31compat.py")
+2017-11-27T16:31:20: Parsing "setuptools.sandbox" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\setuptools\sandbox.py")
+2017-11-27T16:31:20: Parsing "setuptools.ssl_support" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\setuptools\ssl_support.py")
+2017-11-27T16:31:20: Parsing "setuptools.unicode_utils" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\setuptools\unicode_utils.py")
+2017-11-27T16:31:20: Parsing "setuptools.version" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\setuptools\version.py")
+2017-11-27T16:31:20: Parsing "setuptools.windows_support" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\setuptools\windows_support.py")
+2017-11-27T16:31:20: Parsing "setuptools" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\setuptools\__init__.py")
+2017-11-27T16:31:20: Parsing "setuptools.command.alias" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\setuptools\command\alias.py")
+2017-11-27T16:31:20: Parsing "setuptools.command.bdist_egg" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\setuptools\command\bdist_egg.py")
+2017-11-27T16:31:20: Parsing "setuptools.command.bdist_rpm" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\setuptools\command\bdist_rpm.py")
+2017-11-27T16:31:20: Parsing "setuptools.command.bdist_wininst" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\setuptools\command\bdist_wininst.py")
+2017-11-27T16:31:20: Parsing "setuptools.command.build_ext" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\setuptools\command\build_ext.py")
+2017-11-27T16:31:20: Parsing "setuptools.command.build_py" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\setuptools\command\build_py.py")
+2017-11-27T16:31:20: Parsing "setuptools.command.develop" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\setuptools\command\develop.py")
+2017-11-27T16:31:20: Parsing "setuptools.command.easy_install" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\setuptools\command\easy_install.py")
+2017-11-27T16:31:20: Parsing "setuptools.command.egg_info" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\setuptools\command\egg_info.py")
+2017-11-27T16:31:20: Parsing "setuptools.command.install" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\setuptools\command\install.py")
+2017-11-27T16:31:20: Parsing "setuptools.command.install_egg_info" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\setuptools\command\install_egg_info.py")
+2017-11-27T16:31:20: Parsing "setuptools.command.install_lib" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\setuptools\command\install_lib.py")
+2017-11-27T16:31:20: Parsing "setuptools.command.install_scripts" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\setuptools\command\install_scripts.py")
+2017-11-27T16:31:20: Parsing "setuptools.command.py36compat" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\setuptools\command\py36compat.py")
+2017-11-27T16:31:20: Parsing "setuptools.command.register" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\setuptools\command\register.py")
+2017-11-27T16:31:20: Parsing "setuptools.command.rotate" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\setuptools\command\rotate.py")
+2017-11-27T16:31:20: Parsing "setuptools.command.saveopts" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\setuptools\command\saveopts.py")
+2017-11-27T16:31:20: Parsing "setuptools.command.sdist" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\setuptools\command\sdist.py")
+2017-11-27T16:31:20: Parsing "setuptools.command.setopt" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\setuptools\command\setopt.py")
+2017-11-27T16:31:20: Parsing "setuptools.command.test" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\setuptools\command\test.py")
+2017-11-27T16:31:20: Parsing "setuptools.command.upload" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\setuptools\command\upload.py")
+2017-11-27T16:31:20: Parsing "setuptools.command.upload_docs" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\setuptools\command\upload_docs.py")
+2017-11-27T16:31:20: Parsing "setuptools.command" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\setuptools\command\__init__.py")
+2017-11-27T16:31:20: Parsing "setuptools.extern" ("c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\setuptools\extern\__init__.py")
+2017-11-27T16:31:20: Parsing complete
+2017-11-27T16:31:20: Analyzing "setuptools.archive_util"
+2017-11-27T16:31:20: Analyzing "setuptools.depends"
+2017-11-27T16:31:20: Analyzing "setuptools.dist"
+2017-11-27T16:31:20: Analyzing "setuptools.extension"
+2017-11-27T16:31:20: Analyzing "setuptools.glob"
+2017-11-27T16:31:20: Analyzing "setuptools.launch"
+2017-11-27T16:31:20: Analyzing "setuptools.lib2to3_ex"
+2017-11-27T16:31:20: Analyzing "setuptools.monkey"
+2017-11-27T16:31:20: Analyzing "setuptools.msvc"
+2017-11-27T16:31:20: Analyzing "setuptools.namespaces"
+2017-11-27T16:31:20: Analyzing "setuptools.package_index"
+2017-11-27T16:31:20: Analyzing "setuptools.py26compat"
+2017-11-27T16:31:20: Analyzing "setuptools.py27compat"
+2017-11-27T16:31:20: Analyzing "setuptools.py31compat"
+2017-11-27T16:31:20: Analyzing "setuptools.sandbox"
+2017-11-27T16:31:20: Analyzing "setuptools.ssl_support"
+2017-11-27T16:31:20: Analyzing "setuptools.unicode_utils"
+2017-11-27T16:31:20: Analyzing "setuptools.version"
+2017-11-27T16:31:20: Analyzing "setuptools.windows_support"
+2017-11-27T16:31:20: Analyzing "setuptools"
+2017-11-27T16:31:20: Analyzing "setuptools.command.alias"
+2017-11-27T16:31:20: Analyzing "setuptools.command.bdist_egg"
+2017-11-27T16:31:20: Analyzing "setuptools.command.bdist_rpm"
+2017-11-27T16:31:20: Analyzing "setuptools.command.bdist_wininst"
+2017-11-27T16:31:20: Analyzing "setuptools.command.build_ext"
+2017-11-27T16:31:20: Analyzing "setuptools.command.build_py"
+2017-11-27T16:31:20: Analyzing "setuptools.command.develop"
+2017-11-27T16:31:20: Analyzing "setuptools.command.easy_install"
+2017-11-27T16:31:20: Analyzing "setuptools.command.egg_info"
+2017-11-27T16:31:20: Analyzing "setuptools.command.install"
+2017-11-27T16:31:20: Analyzing "setuptools.command.install_egg_info"
+2017-11-27T16:31:20: Analyzing "setuptools.command.install_lib"
+2017-11-27T16:31:20: Analyzing "setuptools.command.install_scripts"
+2017-11-27T16:31:20: Analyzing "setuptools.command.py36compat"
+2017-11-27T16:31:20: Analyzing "setuptools.command.register"
+2017-11-27T16:31:20: Analyzing "setuptools.command.rotate"
+2017-11-27T16:31:20: Analyzing "setuptools.command.saveopts"
+2017-11-27T16:31:20: Analyzing "setuptools.command.sdist"
+2017-11-27T16:31:20: Analyzing "setuptools.command.setopt"
+2017-11-27T16:31:20: Analyzing "setuptools.command.test"
+2017-11-27T16:31:20: Analyzing "setuptools.command.upload"
+2017-11-27T16:31:20: Analyzing "setuptools.command.upload_docs"
+2017-11-27T16:31:20: Analyzing "setuptools.command"
+2017-11-27T16:31:20: Analyzing "setuptools.extern"
+2017-11-27T16:31:20: Starting analysis of 44 modules
+2017-11-27T16:31:22: Analysis complete
+2017-11-27T16:31:22: Saving group "c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\setuptools"
+2017-11-27T16:31:23: End of group "c:\users\pr00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\setuptools"
+2017-11-27T16:31:23: Deleting 0 files
+
+2017-11-29T14:12:36: Start analysis
+2017-11-29T14:12:36: [WARNING] Library was set explicitly - skipping path detection
+2017-11-29T14:12:36: IncludeModulesFromModulePath = win32com
+2017-11-29T14:12:37: Deleting 0 files
+2017-11-29T14:12:37: astropy.CallDepth = 0
+2017-11-29T14:12:37: matplotlib.CallDepth = 3
+2017-11-29T14:12:37: pandas.CallDepth = 0
+2017-11-29T14:12:37: sympy.CallDepth = 0
+2017-11-29T14:12:37: Start group "C:\Users\PR00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\beaker" with 26 files
+2017-11-29T14:12:37: Parsing "beaker.cache" ("C:\Users\PR00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\beaker\cache.py")
+2017-11-29T14:12:37: Parsing "beaker.container" ("C:\Users\PR00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\beaker\container.py")
+2017-11-29T14:12:37: Parsing "beaker.converters" ("C:\Users\PR00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\beaker\converters.py")
+2017-11-29T14:12:37: Parsing "beaker.cookie" ("C:\Users\PR00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\beaker\cookie.py")
+2017-11-29T14:12:37: Parsing "beaker.exceptions" ("C:\Users\PR00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\beaker\exceptions.py")
+2017-11-29T14:12:37: Parsing "beaker.middleware" ("C:\Users\PR00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\beaker\middleware.py")
+2017-11-29T14:12:37: Parsing "beaker.session" ("C:\Users\PR00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\beaker\session.py")
+2017-11-29T14:12:37: Parsing "beaker.synchronization" ("C:\Users\PR00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\beaker\synchronization.py")
+2017-11-29T14:12:37: Parsing "beaker.util" ("C:\Users\PR00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\beaker\util.py")
+2017-11-29T14:12:37: Parsing "beaker._compat" ("C:\Users\PR00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\beaker\_compat.py")
+2017-11-29T14:12:37: Parsing "beaker" ("C:\Users\PR00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\beaker\__init__.py")
+2017-11-29T14:12:37: Parsing "beaker.crypto.jcecrypto" ("C:\Users\PR00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\beaker\crypto\jcecrypto.py")
+2017-11-29T14:12:37: Parsing "beaker.crypto.noencryption" ("C:\Users\PR00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\beaker\crypto\noencryption.py")
+2017-11-29T14:12:37: Parsing "beaker.crypto.nsscrypto" ("C:\Users\PR00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\beaker\crypto\nsscrypto.py")
+2017-11-29T14:12:37: Parsing "beaker.crypto.pbkdf2" ("C:\Users\PR00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\beaker\crypto\pbkdf2.py")
+2017-11-29T14:12:37: Parsing "beaker.crypto.pyca_cryptography" ("C:\Users\PR00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\beaker\crypto\pyca_cryptography.py")
+2017-11-29T14:12:37: Parsing "beaker.crypto.pycrypto" ("C:\Users\PR00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\beaker\crypto\pycrypto.py")
+2017-11-29T14:12:37: Parsing "beaker.crypto.util" ("C:\Users\PR00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\beaker\crypto\util.py")
+2017-11-29T14:12:37: Parsing "beaker.crypto" ("C:\Users\PR00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\beaker\crypto\__init__.py")
+2017-11-29T14:12:37: Parsing "beaker.ext.database" ("C:\Users\PR00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\beaker\ext\database.py")
+2017-11-29T14:12:37: Parsing "beaker.ext.google" ("C:\Users\PR00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\beaker\ext\google.py")
+2017-11-29T14:12:37: Parsing "beaker.ext.memcached" ("C:\Users\PR00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\beaker\ext\memcached.py")
+2017-11-29T14:12:37: Parsing "beaker.ext.mongodb" ("C:\Users\PR00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\beaker\ext\mongodb.py")
+2017-11-29T14:12:37: Parsing "beaker.ext.redisnm" ("C:\Users\PR00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\beaker\ext\redisnm.py")
+2017-11-29T14:12:37: Parsing "beaker.ext.sqla" ("C:\Users\PR00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\beaker\ext\sqla.py")
+2017-11-29T14:12:37: Parsing "beaker.ext" ("C:\Users\PR00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\beaker\ext\__init__.py")
+2017-11-29T14:12:37: Parsing complete
+2017-11-29T14:12:37: Analyzing "beaker.cache"
+2017-11-29T14:12:37: Analyzing "beaker.container"
+2017-11-29T14:12:37: Analyzing "beaker.converters"
+2017-11-29T14:12:37: Analyzing "beaker.cookie"
+2017-11-29T14:12:37: Analyzing "beaker.exceptions"
+2017-11-29T14:12:37: Analyzing "beaker.middleware"
+2017-11-29T14:12:37: Analyzing "beaker.session"
+2017-11-29T14:12:37: Analyzing "beaker.synchronization"
+2017-11-29T14:12:37: Analyzing "beaker.util"
+2017-11-29T14:12:37: Analyzing "beaker._compat"
+2017-11-29T14:12:37: Analyzing "beaker"
+2017-11-29T14:12:37: Analyzing "beaker.crypto.jcecrypto"
+2017-11-29T14:12:37: Analyzing "beaker.crypto.noencryption"
+2017-11-29T14:12:37: Analyzing "beaker.crypto.nsscrypto"
+2017-11-29T14:12:37: Analyzing "beaker.crypto.pbkdf2"
+2017-11-29T14:12:37: Analyzing "beaker.crypto.pyca_cryptography"
+2017-11-29T14:12:37: Analyzing "beaker.crypto.pycrypto"
+2017-11-29T14:12:37: Analyzing "beaker.crypto.util"
+2017-11-29T14:12:37: Analyzing "beaker.crypto"
+2017-11-29T14:12:37: Analyzing "beaker.ext.database"
+2017-11-29T14:12:37: Analyzing "beaker.ext.google"
+2017-11-29T14:12:37: Analyzing "beaker.ext.memcached"
+2017-11-29T14:12:37: Analyzing "beaker.ext.mongodb"
+2017-11-29T14:12:37: Analyzing "beaker.ext.redisnm"
+2017-11-29T14:12:37: Analyzing "beaker.ext.sqla"
+2017-11-29T14:12:37: Analyzing "beaker.ext"
+2017-11-29T14:12:37: Starting analysis of 26 modules
+2017-11-29T14:12:38: Analysis complete
+2017-11-29T14:12:38: Saving group "C:\Users\PR00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\beaker"
+2017-11-29T14:12:39: End of group "C:\Users\PR00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\beaker"
+2017-11-29T14:12:39: Deleting 0 files

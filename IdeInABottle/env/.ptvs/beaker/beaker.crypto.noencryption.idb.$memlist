@@ -1,0 +1,4 @@
+has_aes
+aesDecrypt
+getKeyLength
+aesEncrypt
