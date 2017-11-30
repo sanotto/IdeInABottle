@@ -3,6 +3,8 @@ This script runs the application using a development server.
 """
 import bottle
 from beaker.middleware import SessionMiddleware
+from requestlogger import WSGILogger, ApacheFormatter
+from logging.handlers import TimedRotatingFileHandler
 import os
 import sys
 import json
@@ -16,6 +18,10 @@ with open(cfg_file) as fp:
 
 # Configure Beaker Session Middleware
 app = SessionMiddleware(app, app.config.session_options)
+
+# Configure wsgi-request-logger Middleware
+handlers = [ TimedRotatingFileHandler('access.log', 'd', 7) , ]
+app = WSGILogger(app, handlers, ApacheFormatter())
 
 # routes contains the HTTP handlers for our server and must be imported.
 import routes.login
