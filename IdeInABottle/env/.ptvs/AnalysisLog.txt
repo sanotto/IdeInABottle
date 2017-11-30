@@ -1400,3 +1400,18 @@ C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Micro
 2017-11-29T14:12:38: Saving group "C:\Users\PR00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\beaker"
 2017-11-29T14:12:39: End of group "C:\Users\PR00525\documents\visual studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\beaker"
 2017-11-29T14:12:39: Deleting 0 files
+
+2017-11-30T20:09:44: Start analysis
+2017-11-30T20:09:44: [WARNING] Library was set explicitly - skipping path detection
+2017-11-30T20:09:44: IncludeModulesFromModulePath = win32com
+2017-11-30T20:09:44: Deleting 0 files
+
+2017-11-30T20:09:46: Start analysis
+2017-11-30T20:09:46: [WARNING] Library was set explicitly - skipping path detection
+2017-11-30T20:09:46: IncludeModulesFromModulePath = win32com
+2017-11-30T20:09:47: Deleting 0 files
+
+2017-11-30T20:10:04: Start analysis
+2017-11-30T20:10:04: [WARNING] Library was set explicitly - skipping path detection
+2017-11-30T20:10:04: IncludeModulesFromModulePath = win32com
+2017-11-30T20:10:04: Deleting 0 files

@@ -1,18 +1,21 @@
 """
 This script runs the application using a development server.
 """
-from beaker.middleware import SessionMiddleware
 import bottle
+from beaker.middleware import SessionMiddleware
 import os
 import sys
+import json
 
-session_options = {
-    'session.type': 'memory',
-    'session.cookie_expires': 300,
-    'session.auto': True
-}
+app = bottle.default_app()     
 
-app = SessionMiddleware(bottle.app(), session_options)
+# Load configuration from a json file
+cfg_file = os.path.dirname(os.path.realpath(__file__)) + os.sep +'appcfg.json'
+with open(cfg_file) as fp:
+    app.config.load_dict(json.load(fp))
+
+# Configure Beaker Session Middleware
+app = SessionMiddleware(app, app.config.session_options)
 
 # routes contains the HTTP handlers for our server and must be imported.
 import routes.login

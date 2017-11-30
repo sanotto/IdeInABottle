@@ -1,0 +1,15 @@
+{
+  "autojson": "False",
+  "sqlite": { "db": ":memory:" },
+
+  "session_options": {
+    "session.type": "memory",
+    "session.cookie_expires": 300,
+    "session.auto": "True"
+  },
+
+  "myapp": {
+    "param": "value",
+    "param2": "value2"
+  }
+}
