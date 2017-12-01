@@ -3,9 +3,12 @@
   "sqlite": { "db": ":memory:" },
 
   "session_options": {
-    "session.type": "memory",
-    "session.cookie_expires": 300,
-    "session.auto": "True"
+    "session.cookie_expires": "True",
+    "session.encrypt_key": "please use a random key and keep it secret!",
+    "session.httponly": "True",
+    "session.timeout": 3600,
+    "session.type": "cookie",
+    "session.validate_key": "True"
   },
 
   "myapp": {

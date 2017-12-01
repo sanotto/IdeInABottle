@@ -18,27 +18,70 @@
 
     def.left_grid={
         name: 'left_grid', 
+		 menu: [
+			{ id: 1, text: 'Select Item', icon: 'fa-star' },
+			{ id: 2, text: 'View Item', icon: 'fa-camera' }, 
+			{ id: 4, text: 'Delete Item', icon: 'fa-minus' }
+		],
+		onMenuClick: left_grid_menu_click,
+
         show: { 
             toolbar: true,            
+			toolbarAdd:true
         },
-        searches: [                
-            { field: 'objnme', caption: 'Nombre', type: 'text' },
-            { field: 'objdsc', caption: 'Descripción', type: 'text' }
-        ],
+        
         columns: [                
                     { field: 'objnme', caption: 'Nombre', size: '25%' },
                     { field: 'objdsc', caption: 'Descripción', size:'75%'}
-                ]
+                ],
+		searches: [                
+            { field: 'objnme', caption: 'Nombre', type: 'text' },
+            { field: 'objdsc', caption: 'Descripción', type: 'text' }
+        ],
+		records: [
+		    { recid: 1, objnme: 'DSDB01.SRC', objdsc: 'Librería de fuentes de SIDEBA' , 
+				w2ui:{
+					children:[
+								{recid: 2, objnme: 'QRPGSRC', objdsc: 'Fuentes RPG'  ,
+									w2ui:{
+											children:[
+												{recid: 3, objnme: 'BAAÑ00MM', objdsc: 'Personas Fisicas MM'  }
+										]
+									}								
+								}
+							 ]
+					}
+			},
+		],
     };
 
     def.top_toolbar={
         name: 'top_toolbar',
-            items: [
-                    { type: 'menu', id: 'file_menu', text: 'Archivos', icon: 'fa-table',
-                        items: [
-                                { text: 'Salir'}
-                               ]
-                    }
+					items: [
+						{ type: 'menu-radio', id: 'item2', icon: 'fa-star' ,
+							text: function (item) {
+								var text = item.selected;
+								var el   = this.get('item2:' + item.selected);
+								return el.text;
+							},
+							selected: 'id1',
+							items: [
+								{ id: 'id1', text: 'Espacio de Trabajo: SIDEBA' },
+								{ id: 'id2', text: 'Espacio de Trabajo: PRUEBALINK' },
+								{ id: 'id3', text: 'Espacio de Trabajo: DESA00525' },
+								{ type: 'break' },
+								{ id: 'id4', text: 'Crear nuevo espacio de trabajo' },
+							]
+						},
+						{ type: 'spacer' },
+						{ type: 'menu', id: 'item1', text: '{{session["user_name"]}}', icon: 'fa-table', 
+							items: [
+										{ text: 'Preferencias', icon: 'fa-wrench' },
+										{ text: 'Item 2', icon: 'fa-picture', disabled: true },
+										{ type: 'spacer' },
+										{ text: 'Cerrar sesión', icon: 'w2ui-icon-cross' }
+									]
+						}
                    ]
     };
 
@@ -56,9 +99,15 @@
 
     function toolbar_events(event)
     {        
-        if (event.target == 'file_menu:Salir')
+        if (event.target == 'app_exit')
         {
-            window.location.replace('logout');
+			alert(event.target)
+            //window.location.replace('logout');
         }
     }
+
+	function left_grid_menu_click(event)
+	{
+		alert(event.target);
+	}
 </script>

@@ -1,1 +1,7 @@
-bottle<1
+Beaker==1.9.0
+bottle==0.12.13
+pip==9.0.1
+PyQt5==5.9
+QScintilla==2.10.1
+setuptools==28.8.0
+sip==4.19.3

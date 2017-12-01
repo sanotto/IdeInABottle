@@ -5,7 +5,7 @@ Routes and views for login
 from bottle import route, view, request, redirect
 from datetime import datetime
 import json
-from helpers.decorators import logged_in
+from helpers.decorators import logged_in    
 
 @route('/')
 @route('/home')
