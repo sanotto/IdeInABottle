@@ -72,7 +72,8 @@
 								{ type: 'break' },
 								{ id: 'id4', text: 'Crear nuevo espacio de trabajo' },
 							]
-						},
+                        },
+                        { type: 'button', id: 'load', text: 'Cargar', icon: 'fa-table'},
 						{ type: 'spacer' },
 						{ type: 'menu', id: 'item1', text: '{{session["user_name"]}}', icon: 'fa-table', 
 							items: [
@@ -98,10 +99,15 @@
     $('#main').w2render('main_layout');
 
     function toolbar_events(event)
-    {        
+        {        
         if (event.target == 'app_exit')
         {
 			alert(event.target)
+            //window.location.replace('logout');
+        }
+        if (event.target == 'cargar')
+        {
+            alert(event.target)
             //window.location.replace('logout');
         }
     }
