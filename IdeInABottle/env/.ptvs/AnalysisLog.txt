@@ -1416,22 +1416,48 @@ C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Micro
 2017-11-30T20:10:04: IncludeModulesFromModulePath = win32com
 2017-11-30T20:10:04: Deleting 0 files
 
-2017-11-30T20:34:51: Start analysis
-2017-11-30T20:34:51: [WARNING] Library was set explicitly - skipping path detection
-2017-11-30T20:34:51: IncludeModulesFromModulePath = win32com
-2017-11-30T20:34:52: Deleting 0 files
-2017-11-30T20:34:52: astropy.CallDepth = 0
-2017-11-30T20:34:52: matplotlib.CallDepth = 3
-2017-11-30T20:34:52: pandas.CallDepth = 0
-2017-11-30T20:34:52: sympy.CallDepth = 0
-2017-11-30T20:34:52: Start group "C:\Users\PR00525\Documents\Visual Studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\requestlogger" with 2 files
-2017-11-30T20:34:52: Parsing "requestlogger.timehacks" ("C:\Users\PR00525\Documents\Visual Studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\requestlogger\timehacks.py")
-2017-11-30T20:34:52: Parsing "requestlogger" ("C:\Users\PR00525\Documents\Visual Studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\requestlogger\__init__.py")
-2017-11-30T20:34:52: Parsing complete
-2017-11-30T20:34:52: Analyzing "requestlogger.timehacks"
-2017-11-30T20:34:52: Analyzing "requestlogger"
-2017-11-30T20:34:52: Starting analysis of 2 modules
-2017-11-30T20:34:53: Analysis complete
-2017-11-30T20:34:53: Saving group "C:\Users\PR00525\Documents\Visual Studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\requestlogger"
-2017-11-30T20:34:53: End of group "C:\Users\PR00525\Documents\Visual Studio 2015\Projects\IdeInABottle\IdeInABottle\env\Lib\site-packages\requestlogger"
-2017-11-30T20:34:53: Deleting 0 files
+2017-12-01T08:54:14: Start analysis
+2017-12-01T08:54:31: [ERROR] Analysis failed
+System.InvalidOperationException: Cannot obtain search paths ---> System.InvalidOperationException: Cannot obtain list of paths
+Fatal Python error: Py_Initialize: unable to load the file system codec
+ImportError: No module named 'encodings'
+Current thread 0x00001758 (most recent call first):
+   en Microsoft.PythonTools.Interpreter.PythonTypeDatabase.<GetUncachedDatabaseSearchPathsAsync>d__58.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   en Microsoft.PythonTools.Analysis.PyLibAnalyzer.<Prepare>d__46.MoveNext()
+   --- Fin del seguimiento de la pila de la excepción interna ---
+   en Microsoft.PythonTools.Analysis.PyLibAnalyzer.<Prepare>d__46.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en Microsoft.PythonTools.Analysis.PyLibAnalyzer.<RunWorker>d__34.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en Microsoft.PythonTools.Analysis.PyLibAnalyzer.<Run>d__33.MoveNext()
+
+2017-12-01T08:55:34: Start analysis
+2017-12-01T08:55:44: [ERROR] Analysis failed
+System.InvalidOperationException: Cannot obtain search paths ---> System.InvalidOperationException: Cannot obtain list of paths
+Fatal Python error: Py_Initialize: unable to load the file system codec
+ImportError: No module named 'encodings'
+Current thread 0x00000978 (most recent call first):
+   en Microsoft.PythonTools.Interpreter.PythonTypeDatabase.<GetUncachedDatabaseSearchPathsAsync>d__58.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   en Microsoft.PythonTools.Analysis.PyLibAnalyzer.<Prepare>d__46.MoveNext()
+   --- Fin del seguimiento de la pila de la excepción interna ---
+   en Microsoft.PythonTools.Analysis.PyLibAnalyzer.<Prepare>d__46.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en Microsoft.PythonTools.Analysis.PyLibAnalyzer.<RunWorker>d__34.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en Microsoft.PythonTools.Analysis.PyLibAnalyzer.<Run>d__33.MoveNext()
